@@ -26,7 +26,7 @@ app = new Application.setup({
 	}
 });
 var connectedUsers = [];
-var dd=[];
+
 sockets = [];
 people = [];
 userSockets = [];

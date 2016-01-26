@@ -18,7 +18,7 @@ module.exports = function Wallet() {
         });
     };
     Wallet.prototype.getFunds = function(id, callback){
-      
+        console.log("=========================================getting funds=============================");
         pool.getConnection(function(err, connection) {
             connection.query("SELECT `ad_funds` FROM `accounts` WHERE `id` = "+connection.escape(id), function(err, rows, fields){
             connection.release();
