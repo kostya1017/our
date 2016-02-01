@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Ekiosk_Android_Gradle/Code/androidEkiosk/build/intermediates/res/merged/debug/layout-xlarge-v4/credit_ekiosk_cell.xml",
+        "source": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Ekiosk_Android_Gradle/Code/androidEkiosk/src/main/res/layout-xlarge/credit_ekiosk_cell.xml"
+    },
+    {
+        "merged": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/EkioskAndroidGithub/ekiosk_android1/androidEkiosk/build/intermediates/res/merged/debug/layout-xlarge-v4/abs__screen_action_bar.xml",
+        "source": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/EkioskAndroidGithub/ekiosk_android1/androidEkiosk/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/layout-xlarge/abs__screen_action_bar.xml"
+    },
+    {
+        "merged": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/EkioskAndroidGithub/ekiosk_android1/androidEkiosk/build/intermediates/res/merged/debug/layout-xlarge-v4/credit_ekiosk_cell.xml",
+        "source": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/EkioskAndroidGithub/ekiosk_android1/androidEkiosk/src/main/res/layout-xlarge/credit_ekiosk_cell.xml"
+    },
+    {
+        "merged": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Ekiosk_Android_Gradle/Code/androidEkiosk/build/intermediates/res/merged/debug/layout-xlarge-v4/edition_cell.xml",
+        "source": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Ekiosk_Android_Gradle/Code/androidEkiosk/src/main/res/layout-xlarge/edition_cell.xml"
+    },
+    {
+        "merged": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/EkioskAndroidGithub/ekiosk_android1/androidEkiosk/build/intermediates/res/merged/debug/layout-xlarge-v4/bibliotheque_edition_detail.xml",
+        "source": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/EkioskAndroidGithub/ekiosk_android1/androidEkiosk/src/main/res/layout-xlarge/bibliotheque_edition_detail.xml"
+    },
+    {
+        "merged": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Ekiosk_Android_Gradle/Code/androidEkiosk/build/intermediates/res/merged/debug/layout-xlarge-v4/abs__screen_action_bar_overlay.xml",
+        "source": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Ekiosk_Android_Gradle/Code/androidEkiosk/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/layout-xlarge/abs__screen_action_bar_overlay.xml"
+    },
+    {
+        "merged": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Ekiosk_Android_Gradle/Code/androidEkiosk/build/intermediates/res/merged/debug/layout-xlarge-v4/bibliotheque_edition_cell.xml",
+        "source": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Ekiosk_Android_Gradle/Code/androidEkiosk/src/main/res/layout-xlarge/bibliotheque_edition_cell.xml"
+    },
+    {
+        "merged": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/EkioskAndroidGithub/ekiosk_android1/androidEkiosk/build/intermediates/res/merged/debug/layout-xlarge-v4/bibliotheque_edition_cell.xml",
+        "source": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/EkioskAndroidGithub/ekiosk_android1/androidEkiosk/src/main/res/layout-xlarge/bibliotheque_edition_cell.xml"
+    },
+    {
+        "merged": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/EkioskAndroidGithub/ekiosk_android1/androidEkiosk/build/intermediates/res/merged/debug/layout-xlarge-v4/edition_cell.xml",
+        "source": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/EkioskAndroidGithub/ekiosk_android1/androidEkiosk/src/main/res/layout-xlarge/edition_cell.xml"
+    },
+    {
+        "merged": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/EkioskAndroidGithub/ekiosk_android1/androidEkiosk/build/intermediates/res/merged/debug/layout-xlarge-v4/abs__screen_action_bar_overlay.xml",
+        "source": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/EkioskAndroidGithub/ekiosk_android1/androidEkiosk/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/layout-xlarge/abs__screen_action_bar_overlay.xml"
+    },
+    {
+        "merged": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/EkioskAndroidGithub/ekiosk_android1/androidEkiosk/build/intermediates/res/merged/debug/layout-xlarge-v4/kiosque_edition_detail.xml",
+        "source": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/EkioskAndroidGithub/ekiosk_android1/androidEkiosk/src/main/res/layout-xlarge/kiosque_edition_detail.xml"
+    },
+    {
+        "merged": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Ekiosk_Android_Gradle/Code/androidEkiosk/build/intermediates/res/merged/debug/layout-xlarge-v4/bibliotheque_edition_detail.xml",
+        "source": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Ekiosk_Android_Gradle/Code/androidEkiosk/src/main/res/layout-xlarge/bibliotheque_edition_detail.xml"
+    },
+    {
+        "merged": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Ekiosk_Android_Gradle/Code/androidEkiosk/build/intermediates/res/merged/debug/layout-xlarge-v4/kiosque_edition_detail.xml",
+        "source": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Ekiosk_Android_Gradle/Code/androidEkiosk/src/main/res/layout-xlarge/kiosque_edition_detail.xml"
+    },
+    {
+        "merged": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Ekiosk_Android_Gradle/Code/androidEkiosk/build/intermediates/res/merged/debug/layout-xlarge-v4/abs__screen_action_bar.xml",
+        "source": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Ekiosk_Android_Gradle/Code/androidEkiosk/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/layout-xlarge/abs__screen_action_bar.xml"
+    }
+]

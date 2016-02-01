@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/EkioskAndroidGithub/ekiosk_android1/androidEkiosk/build/intermediates/res/merged/debug/raw/pdfnet.res",
+        "source": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/EkioskAndroidGithub/ekiosk_android1/androidEkiosk/src/main/res/raw/pdfnet.res"
+    },
+    {
+        "merged": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Ekiosk_Android_Gradle/Code/androidEkiosk/build/intermediates/res/merged/debug/raw/pdfnet.res",
+        "source": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Ekiosk_Android_Gradle/Code/androidEkiosk/src/main/res/raw/pdfnet.res"
+    }
+]

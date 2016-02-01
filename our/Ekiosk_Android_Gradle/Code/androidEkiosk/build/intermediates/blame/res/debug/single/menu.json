@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/EkioskAndroidGithub/ekiosk_android1/androidEkiosk/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/EkioskAndroidGithub/ekiosk_android1/androidEkiosk/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/EkioskAndroidGithub/ekiosk_android1/androidEkiosk/build/intermediates/res/merged/debug/menu/menu_done.xml",
+        "source": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/EkioskAndroidGithub/ekiosk_android1/androidEkiosk/src/main/res/menu/menu_done.xml"
+    },
+    {
+        "merged": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Ekiosk_Android_Gradle/Code/androidEkiosk/build/intermediates/res/merged/debug/menu/menu_done.xml",
+        "source": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Ekiosk_Android_Gradle/Code/androidEkiosk/src/main/res/menu/menu_done.xml"
+    },
+    {
+        "merged": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Ekiosk_Android_Gradle/Code/androidEkiosk/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Ekiosk_Android_Gradle/Code/androidEkiosk/src/main/res/menu/main.xml"
+    }
+]

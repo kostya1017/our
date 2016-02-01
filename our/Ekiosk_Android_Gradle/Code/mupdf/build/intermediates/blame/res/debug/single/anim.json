@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Ekiosk_Android_Gradle/Code/mupdf/build/intermediates/res/merged/debug/anim/info.xml",
+        "source": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Ekiosk_Android_Gradle/Code/mupdf/src/main/res/anim/info.xml"
+    },
+    {
+        "merged": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/EkioskAndroidGithub/ekiosk_android1/mupdf/build/intermediates/res/merged/debug/anim/info.xml",
+        "source": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/EkioskAndroidGithub/ekiosk_android1/mupdf/src/main/res/anim/info.xml"
+    },
+    {
+        "merged": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Washpoint/sample/library/build/intermediates/res/merged/debug/anim/info.xml",
+        "source": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Washpoint/sample/library/src/main/res/anim/info.xml"
+    }
+]

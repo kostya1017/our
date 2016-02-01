@@ -1,0 +1,1556 @@
+[
+    {
+        "outputFile": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Ekiosk_Android_Gradle/Code/mupdf/build/intermediates/res/merged/debug/values-ru/values-ru.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 43,
+                    "endOffset": 94
+                },
+                "from": {
+                    "file": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Ekiosk_Android_Gradle/Code/mupdf/src/main/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endColumn": 43,
+                        "endOffset": 56
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 99,
+                    "endColumn": 71,
+                    "endOffset": 166
+                },
+                "from": {
+                    "file": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Ekiosk_Android_Gradle/Code/mupdf/src/main/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1106,
+                        "endColumn": 71,
+                        "endOffset": 1173
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 171,
+                    "endColumn": 76,
+                    "endOffset": 243
+                },
+                "from": {
+                    "file": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Ekiosk_Android_Gradle/Code/mupdf/src/main/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 859,
+                        "endColumn": 76,
+                        "endOffset": 931
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 248,
+                    "endColumn": 89,
+                    "endOffset": 333
+                },
+                "from": {
+                    "file": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Ekiosk_Android_Gradle/Code/mupdf/src/main/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 936,
+                        "endColumn": 89,
+                        "endOffset": 1021
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 338,
+                    "endColumn": 79,
+                    "endOffset": 413
+                },
+                "from": {
+                    "file": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Ekiosk_Android_Gradle/Code/mupdf/src/main/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1026,
+                        "endColumn": 79,
+                        "endOffset": 1101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 418,
+                    "endColumn": 58,
+                    "endOffset": 472
+                },
+                "from": {
+                    "file": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Ekiosk_Android_Gradle/Code/mupdf/src/main/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1287,
+                        "endColumn": 58,
+                        "endOffset": 1341
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 477,
+                    "endColumn": 48,
+                    "endOffset": 521
+                },
+                "from": {
+                    "file": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Ekiosk_Android_Gradle/Code/mupdf/src/main/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 584,
+                        "endColumn": 48,
+                        "endOffset": 628
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 526,
+                    "endColumn": 91,
+                    "endOffset": 613
+                },
+                "from": {
+                    "file": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Ekiosk_Android_Gradle/Code/mupdf/src/main/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 767,
+                        "endColumn": 91,
+                        "endOffset": 854
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 618,
+                    "endColumn": 57,
+                    "endOffset": 671
+                },
+                "from": {
+                    "file": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Ekiosk_Android_Gradle/Code/mupdf/src/main/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 248,
+                        "endColumn": 57,
+                        "endOffset": 301
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 676,
+                    "endColumn": 72,
+                    "endOffset": 744
+                },
+                "from": {
+                    "file": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Ekiosk_Android_Gradle/Code/mupdf/src/main/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1178,
+                        "endColumn": 72,
+                        "endOffset": 1246
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 749,
+                    "endColumn": 101,
+                    "endOffset": 846
+                },
+                "from": {
+                    "file": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Ekiosk_Android_Gradle/Code/mupdf/src/main/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1446,
+                        "endColumn": 101,
+                        "endOffset": 1543
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 851,
+                    "endColumn": 39,
+                    "endOffset": 886
+                },
+                "from": {
+                    "file": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Ekiosk_Android_Gradle/Code/mupdf/src/main/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1406,
+                        "endColumn": 39,
+                        "endOffset": 1441
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 891,
+                    "endColumn": 34,
+                    "endOffset": 921
+                },
+                "from": {
+                    "file": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Ekiosk_Android_Gradle/Code/mupdf/src/main/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 668,
+                        "endColumn": 34,
+                        "endOffset": 698
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 926,
+                    "endColumn": 81,
+                    "endOffset": 1003
+                },
+                "from": {
+                    "file": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Ekiosk_Android_Gradle/Code/mupdf/src/main/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 417,
+                        "endColumn": 81,
+                        "endOffset": 494
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1008,
+                    "endColumn": 59,
+                    "endOffset": 1063
+                },
+                "from": {
+                    "file": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Ekiosk_Android_Gradle/Code/mupdf/src/main/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1346,
+                        "endColumn": 59,
+                        "endOffset": 1401
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1068,
+                    "endColumn": 35,
+                    "endOffset": 1099
+                },
+                "from": {
+                    "file": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Ekiosk_Android_Gradle/Code/mupdf/src/main/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1251,
+                        "endColumn": 35,
+                        "endOffset": 1282
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1104,
+                    "endColumn": 58,
+                    "endOffset": 1158
+                },
+                "from": {
+                    "file": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Ekiosk_Android_Gradle/Code/mupdf/src/main/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 1,
+                        "startOffset": 1547,
+                        "endColumn": 55,
+                        "endOffset": 1601
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1163,
+                    "endColumn": 42,
+                    "endOffset": 1201
+                },
+                "from": {
+                    "file": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Ekiosk_Android_Gradle/Code/mupdf/src/main/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 541,
+                        "endColumn": 42,
+                        "endOffset": 579
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1206,
+                    "endColumn": 63,
+                    "endOffset": 1265
+                },
+                "from": {
+                    "file": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Ekiosk_Android_Gradle/Code/mupdf/src/main/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 703,
+                        "endColumn": 63,
+                        "endOffset": 762
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1270,
+                    "endColumn": 41,
+                    "endOffset": 1307
+                },
+                "from": {
+                    "file": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Ekiosk_Android_Gradle/Code/mupdf/src/main/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 499,
+                        "endColumn": 41,
+                        "endOffset": 536
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1312,
+                    "endColumn": 62,
+                    "endOffset": 1370
+                },
+                "from": {
+                    "file": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Ekiosk_Android_Gradle/Code/mupdf/src/main/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 61,
+                        "endColumn": 62,
+                        "endOffset": 119
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1375,
+                    "endColumn": 62,
+                    "endOffset": 1433
+                },
+                "from": {
+                    "file": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Ekiosk_Android_Gradle/Code/mupdf/src/main/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 185,
+                        "endColumn": 62,
+                        "endOffset": 243
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1438,
+                    "endColumn": 60,
+                    "endOffset": 1494
+                },
+                "from": {
+                    "file": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Ekiosk_Android_Gradle/Code/mupdf/src/main/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 124,
+                        "endColumn": 60,
+                        "endOffset": 180
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1499,
+                    "endColumn": 45,
+                    "endOffset": 1540
+                },
+                "from": {
+                    "file": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Ekiosk_Android_Gradle/Code/mupdf/src/main/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 365,
+                        "endColumn": 51,
+                        "endOffset": 412
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1545,
+                    "endColumn": 58,
+                    "endOffset": 1599
+                },
+                "from": {
+                    "file": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Ekiosk_Android_Gradle/Code/mupdf/src/main/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 306,
+                        "endColumn": 58,
+                        "endOffset": 360
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1604,
+                    "endColumn": 64,
+                    "endOffset": 1664
+                },
+                "from": {
+                    "file": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Ekiosk_Android_Gradle/Code/mupdf/src/main/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 1,
+                        "startOffset": 1603,
+                        "endColumn": 61,
+                        "endOffset": 1663
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1669,
+                    "endColumn": 34,
+                    "endOffset": 1699
+                },
+                "from": {
+                    "file": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Ekiosk_Android_Gradle/Code/mupdf/src/main/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 633,
+                        "endColumn": 34,
+                        "endOffset": 663
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Washpoint/sample/library/build/intermediates/res/merged/debug/values-ru/values-ru.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 43,
+                    "endOffset": 94
+                },
+                "from": {
+                    "file": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Washpoint/sample/library/src/main/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endColumn": 43,
+                        "endOffset": 56
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 99,
+                    "endColumn": 71,
+                    "endOffset": 166
+                },
+                "from": {
+                    "file": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Washpoint/sample/library/src/main/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1106,
+                        "endColumn": 71,
+                        "endOffset": 1173
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 171,
+                    "endColumn": 76,
+                    "endOffset": 243
+                },
+                "from": {
+                    "file": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Washpoint/sample/library/src/main/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 859,
+                        "endColumn": 76,
+                        "endOffset": 931
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 248,
+                    "endColumn": 89,
+                    "endOffset": 333
+                },
+                "from": {
+                    "file": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Washpoint/sample/library/src/main/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 936,
+                        "endColumn": 89,
+                        "endOffset": 1021
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 338,
+                    "endColumn": 79,
+                    "endOffset": 413
+                },
+                "from": {
+                    "file": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Washpoint/sample/library/src/main/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1026,
+                        "endColumn": 79,
+                        "endOffset": 1101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 418,
+                    "endColumn": 58,
+                    "endOffset": 472
+                },
+                "from": {
+                    "file": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Washpoint/sample/library/src/main/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1287,
+                        "endColumn": 58,
+                        "endOffset": 1341
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 477,
+                    "endColumn": 48,
+                    "endOffset": 521
+                },
+                "from": {
+                    "file": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Washpoint/sample/library/src/main/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 584,
+                        "endColumn": 48,
+                        "endOffset": 628
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 526,
+                    "endColumn": 91,
+                    "endOffset": 613
+                },
+                "from": {
+                    "file": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Washpoint/sample/library/src/main/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 767,
+                        "endColumn": 91,
+                        "endOffset": 854
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 618,
+                    "endColumn": 57,
+                    "endOffset": 671
+                },
+                "from": {
+                    "file": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Washpoint/sample/library/src/main/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 248,
+                        "endColumn": 57,
+                        "endOffset": 301
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 676,
+                    "endColumn": 72,
+                    "endOffset": 744
+                },
+                "from": {
+                    "file": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Washpoint/sample/library/src/main/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1178,
+                        "endColumn": 72,
+                        "endOffset": 1246
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 749,
+                    "endColumn": 101,
+                    "endOffset": 846
+                },
+                "from": {
+                    "file": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Washpoint/sample/library/src/main/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1446,
+                        "endColumn": 101,
+                        "endOffset": 1543
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 851,
+                    "endColumn": 39,
+                    "endOffset": 886
+                },
+                "from": {
+                    "file": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Washpoint/sample/library/src/main/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1406,
+                        "endColumn": 39,
+                        "endOffset": 1441
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 891,
+                    "endColumn": 34,
+                    "endOffset": 921
+                },
+                "from": {
+                    "file": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Washpoint/sample/library/src/main/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 668,
+                        "endColumn": 34,
+                        "endOffset": 698
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 926,
+                    "endColumn": 81,
+                    "endOffset": 1003
+                },
+                "from": {
+                    "file": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Washpoint/sample/library/src/main/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 417,
+                        "endColumn": 81,
+                        "endOffset": 494
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1008,
+                    "endColumn": 59,
+                    "endOffset": 1063
+                },
+                "from": {
+                    "file": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Washpoint/sample/library/src/main/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1346,
+                        "endColumn": 59,
+                        "endOffset": 1401
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1068,
+                    "endColumn": 35,
+                    "endOffset": 1099
+                },
+                "from": {
+                    "file": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Washpoint/sample/library/src/main/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1251,
+                        "endColumn": 35,
+                        "endOffset": 1282
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1104,
+                    "endColumn": 58,
+                    "endOffset": 1158
+                },
+                "from": {
+                    "file": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Washpoint/sample/library/src/main/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 1,
+                        "startOffset": 1547,
+                        "endColumn": 55,
+                        "endOffset": 1601
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1163,
+                    "endColumn": 42,
+                    "endOffset": 1201
+                },
+                "from": {
+                    "file": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Washpoint/sample/library/src/main/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 541,
+                        "endColumn": 42,
+                        "endOffset": 579
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1206,
+                    "endColumn": 63,
+                    "endOffset": 1265
+                },
+                "from": {
+                    "file": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Washpoint/sample/library/src/main/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 703,
+                        "endColumn": 63,
+                        "endOffset": 762
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1270,
+                    "endColumn": 41,
+                    "endOffset": 1307
+                },
+                "from": {
+                    "file": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Washpoint/sample/library/src/main/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 499,
+                        "endColumn": 41,
+                        "endOffset": 536
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1312,
+                    "endColumn": 62,
+                    "endOffset": 1370
+                },
+                "from": {
+                    "file": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Washpoint/sample/library/src/main/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 61,
+                        "endColumn": 62,
+                        "endOffset": 119
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1375,
+                    "endColumn": 62,
+                    "endOffset": 1433
+                },
+                "from": {
+                    "file": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Washpoint/sample/library/src/main/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 185,
+                        "endColumn": 62,
+                        "endOffset": 243
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1438,
+                    "endColumn": 60,
+                    "endOffset": 1494
+                },
+                "from": {
+                    "file": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Washpoint/sample/library/src/main/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 124,
+                        "endColumn": 60,
+                        "endOffset": 180
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1499,
+                    "endColumn": 45,
+                    "endOffset": 1540
+                },
+                "from": {
+                    "file": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Washpoint/sample/library/src/main/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 365,
+                        "endColumn": 51,
+                        "endOffset": 412
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1545,
+                    "endColumn": 58,
+                    "endOffset": 1599
+                },
+                "from": {
+                    "file": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Washpoint/sample/library/src/main/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 306,
+                        "endColumn": 58,
+                        "endOffset": 360
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1604,
+                    "endColumn": 64,
+                    "endOffset": 1664
+                },
+                "from": {
+                    "file": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Washpoint/sample/library/src/main/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 1,
+                        "startOffset": 1603,
+                        "endColumn": 61,
+                        "endOffset": 1663
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1669,
+                    "endColumn": 34,
+                    "endOffset": 1699
+                },
+                "from": {
+                    "file": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Washpoint/sample/library/src/main/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 633,
+                        "endColumn": 34,
+                        "endOffset": 663
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/EkioskAndroidGithub/ekiosk_android1/mupdf/build/intermediates/res/merged/debug/values-ru/values-ru.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 43,
+                    "endOffset": 94
+                },
+                "from": {
+                    "file": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/EkioskAndroidGithub/ekiosk_android1/mupdf/src/main/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endColumn": 43,
+                        "endOffset": 56
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 99,
+                    "endColumn": 71,
+                    "endOffset": 166
+                },
+                "from": {
+                    "file": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/EkioskAndroidGithub/ekiosk_android1/mupdf/src/main/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1106,
+                        "endColumn": 71,
+                        "endOffset": 1173
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 171,
+                    "endColumn": 76,
+                    "endOffset": 243
+                },
+                "from": {
+                    "file": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/EkioskAndroidGithub/ekiosk_android1/mupdf/src/main/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 859,
+                        "endColumn": 76,
+                        "endOffset": 931
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 248,
+                    "endColumn": 89,
+                    "endOffset": 333
+                },
+                "from": {
+                    "file": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/EkioskAndroidGithub/ekiosk_android1/mupdf/src/main/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 936,
+                        "endColumn": 89,
+                        "endOffset": 1021
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 338,
+                    "endColumn": 79,
+                    "endOffset": 413
+                },
+                "from": {
+                    "file": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/EkioskAndroidGithub/ekiosk_android1/mupdf/src/main/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1026,
+                        "endColumn": 79,
+                        "endOffset": 1101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 418,
+                    "endColumn": 58,
+                    "endOffset": 472
+                },
+                "from": {
+                    "file": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/EkioskAndroidGithub/ekiosk_android1/mupdf/src/main/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1287,
+                        "endColumn": 58,
+                        "endOffset": 1341
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 477,
+                    "endColumn": 48,
+                    "endOffset": 521
+                },
+                "from": {
+                    "file": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/EkioskAndroidGithub/ekiosk_android1/mupdf/src/main/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 584,
+                        "endColumn": 48,
+                        "endOffset": 628
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 526,
+                    "endColumn": 91,
+                    "endOffset": 613
+                },
+                "from": {
+                    "file": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/EkioskAndroidGithub/ekiosk_android1/mupdf/src/main/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 767,
+                        "endColumn": 91,
+                        "endOffset": 854
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 618,
+                    "endColumn": 57,
+                    "endOffset": 671
+                },
+                "from": {
+                    "file": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/EkioskAndroidGithub/ekiosk_android1/mupdf/src/main/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 248,
+                        "endColumn": 57,
+                        "endOffset": 301
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 676,
+                    "endColumn": 72,
+                    "endOffset": 744
+                },
+                "from": {
+                    "file": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/EkioskAndroidGithub/ekiosk_android1/mupdf/src/main/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1178,
+                        "endColumn": 72,
+                        "endOffset": 1246
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 749,
+                    "endColumn": 101,
+                    "endOffset": 846
+                },
+                "from": {
+                    "file": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/EkioskAndroidGithub/ekiosk_android1/mupdf/src/main/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1446,
+                        "endColumn": 101,
+                        "endOffset": 1543
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 851,
+                    "endColumn": 39,
+                    "endOffset": 886
+                },
+                "from": {
+                    "file": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/EkioskAndroidGithub/ekiosk_android1/mupdf/src/main/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1406,
+                        "endColumn": 39,
+                        "endOffset": 1441
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 891,
+                    "endColumn": 34,
+                    "endOffset": 921
+                },
+                "from": {
+                    "file": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/EkioskAndroidGithub/ekiosk_android1/mupdf/src/main/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 668,
+                        "endColumn": 34,
+                        "endOffset": 698
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 926,
+                    "endColumn": 81,
+                    "endOffset": 1003
+                },
+                "from": {
+                    "file": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/EkioskAndroidGithub/ekiosk_android1/mupdf/src/main/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 417,
+                        "endColumn": 81,
+                        "endOffset": 494
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1008,
+                    "endColumn": 59,
+                    "endOffset": 1063
+                },
+                "from": {
+                    "file": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/EkioskAndroidGithub/ekiosk_android1/mupdf/src/main/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1346,
+                        "endColumn": 59,
+                        "endOffset": 1401
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1068,
+                    "endColumn": 35,
+                    "endOffset": 1099
+                },
+                "from": {
+                    "file": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/EkioskAndroidGithub/ekiosk_android1/mupdf/src/main/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1251,
+                        "endColumn": 35,
+                        "endOffset": 1282
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1104,
+                    "endColumn": 58,
+                    "endOffset": 1158
+                },
+                "from": {
+                    "file": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/EkioskAndroidGithub/ekiosk_android1/mupdf/src/main/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 1,
+                        "startOffset": 1547,
+                        "endColumn": 55,
+                        "endOffset": 1601
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1163,
+                    "endColumn": 42,
+                    "endOffset": 1201
+                },
+                "from": {
+                    "file": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/EkioskAndroidGithub/ekiosk_android1/mupdf/src/main/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 541,
+                        "endColumn": 42,
+                        "endOffset": 579
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1206,
+                    "endColumn": 63,
+                    "endOffset": 1265
+                },
+                "from": {
+                    "file": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/EkioskAndroidGithub/ekiosk_android1/mupdf/src/main/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 703,
+                        "endColumn": 63,
+                        "endOffset": 762
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1270,
+                    "endColumn": 41,
+                    "endOffset": 1307
+                },
+                "from": {
+                    "file": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/EkioskAndroidGithub/ekiosk_android1/mupdf/src/main/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 499,
+                        "endColumn": 41,
+                        "endOffset": 536
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1312,
+                    "endColumn": 62,
+                    "endOffset": 1370
+                },
+                "from": {
+                    "file": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/EkioskAndroidGithub/ekiosk_android1/mupdf/src/main/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 61,
+                        "endColumn": 62,
+                        "endOffset": 119
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1375,
+                    "endColumn": 62,
+                    "endOffset": 1433
+                },
+                "from": {
+                    "file": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/EkioskAndroidGithub/ekiosk_android1/mupdf/src/main/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 185,
+                        "endColumn": 62,
+                        "endOffset": 243
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1438,
+                    "endColumn": 60,
+                    "endOffset": 1494
+                },
+                "from": {
+                    "file": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/EkioskAndroidGithub/ekiosk_android1/mupdf/src/main/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 124,
+                        "endColumn": 60,
+                        "endOffset": 180
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1499,
+                    "endColumn": 45,
+                    "endOffset": 1540
+                },
+                "from": {
+                    "file": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/EkioskAndroidGithub/ekiosk_android1/mupdf/src/main/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 365,
+                        "endColumn": 51,
+                        "endOffset": 412
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1545,
+                    "endColumn": 58,
+                    "endOffset": 1599
+                },
+                "from": {
+                    "file": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/EkioskAndroidGithub/ekiosk_android1/mupdf/src/main/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 306,
+                        "endColumn": 58,
+                        "endOffset": 360
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1604,
+                    "endColumn": 64,
+                    "endOffset": 1664
+                },
+                "from": {
+                    "file": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/EkioskAndroidGithub/ekiosk_android1/mupdf/src/main/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 1,
+                        "startOffset": 1603,
+                        "endColumn": 61,
+                        "endOffset": 1663
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1669,
+                    "endColumn": 34,
+                    "endOffset": 1699
+                },
+                "from": {
+                    "file": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/EkioskAndroidGithub/ekiosk_android1/mupdf/src/main/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 633,
+                        "endColumn": 34,
+                        "endOffset": 663
+                    }
+                }
+            }
+        ]
+    }
+]

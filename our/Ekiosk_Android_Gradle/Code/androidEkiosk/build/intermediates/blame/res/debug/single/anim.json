@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Ekiosk_Android_Gradle/Code/androidEkiosk/build/intermediates/res/merged/debug/anim/info.xml",
+        "source": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Ekiosk_Android_Gradle/Code/androidEkiosk/build/intermediates/exploded-aar/Code/mupdf/unspecified/res/anim/info.xml"
+    },
+    {
+        "merged": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/EkioskAndroidGithub/ekiosk_android1/androidEkiosk/build/intermediates/res/merged/debug/anim/info.xml",
+        "source": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/EkioskAndroidGithub/ekiosk_android1/androidEkiosk/build/intermediates/exploded-aar/ekiosk_android1/mupdf/unspecified/res/anim/info.xml"
+    }
+]

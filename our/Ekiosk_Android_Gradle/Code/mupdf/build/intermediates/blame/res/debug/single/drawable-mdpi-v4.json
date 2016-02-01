@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Washpoint/sample/library/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_mark_yes.png",
+        "source": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Washpoint/sample/library/src/main/res/drawable-mdpi/ic_mark_yes.png"
+    },
+    {
+        "merged": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/EkioskAndroidGithub/ekiosk_android1/mupdf/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_mark_yes.png",
+        "source": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/EkioskAndroidGithub/ekiosk_android1/mupdf/src/main/res/drawable-mdpi/ic_mark_yes.png"
+    },
+    {
+        "merged": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Ekiosk_Android_Gradle/Code/mupdf/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_mark_yes.png",
+        "source": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Ekiosk_Android_Gradle/Code/mupdf/src/main/res/drawable-mdpi/ic_mark_yes.png"
+    },
+    {
+        "merged": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Washpoint/sample/library/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_mark_no.png",
+        "source": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Washpoint/sample/library/src/main/res/drawable-mdpi/ic_mark_no.png"
+    },
+    {
+        "merged": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/EkioskAndroidGithub/ekiosk_android1/mupdf/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_mark_no.png",
+        "source": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/EkioskAndroidGithub/ekiosk_android1/mupdf/src/main/res/drawable-mdpi/ic_mark_no.png"
+    },
+    {
+        "merged": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Ekiosk_Android_Gradle/Code/mupdf/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_mark_no.png",
+        "source": "/Users/ITD/Desktop/Data/Projects/PersonalProjects/Ekiosk_Android_Gradle/Code/mupdf/src/main/res/drawable-mdpi/ic_mark_no.png"
+    }
+]

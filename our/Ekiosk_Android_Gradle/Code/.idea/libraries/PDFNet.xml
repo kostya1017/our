@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="PDFNet">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/androidEkiosk/libs/PDFNet.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

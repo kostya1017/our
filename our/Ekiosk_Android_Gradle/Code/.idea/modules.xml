@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Code.iml" filepath="$PROJECT_DIR$/Code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidBitmapCache/androidBitmapCache.iml" filepath="$PROJECT_DIR$/androidBitmapCache/androidBitmapCache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidEkiosk/androidEkiosk.iml" filepath="$PROJECT_DIR$/androidEkiosk/androidEkiosk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mupdf/mupdf.iml" filepath="$PROJECT_DIR$/mupdf/mupdf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/progressfragment/progressfragment.iml" filepath="$PROJECT_DIR$/progressfragment/progressfragment.iml" />
+    </modules>
+  </component>
+</project>
