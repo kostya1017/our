@@ -1,0 +1,1032 @@
+'http://www.vitacost.com/airborne-effervescent-health-formula-orange'opening document: http://www.vitacost.com/airborne-effervescent-health-formula-orange
+loading...
+XPATH //div[@id='productDesc']  1 results
+-500 characters truncated ... ]
+XPATH //div[@class='RSTL_RightTitle_Product']  1 results
+<div class="RSTL_RightTitle_Product"> <!-- title -->&#13;
+Airborne Effervescent Health Formula Orange -- 10 Tablets&#13;
+</div>
+XPATH //div[@id='rightSideWrapper']/div[@class='RSTR_TopRetail_Product']  1 results
+<div class="RSTR_TopRetail_Product"><!-- retail -->&#13;
+&#13;
+<div class="pRetailPrice fs pRP10 txtI">Retail price: $8.99</div>&#13;
+&#13;
+&#13;
+&#13;
+</div>
+XPATH //div[@id='rightSideWrapper']/div[@class='RSTR_TopValue_Product']  1 results
+<div class="RSTR_TopValue_Product"><!-- value price -->&#13;
+<div class="pOurPriceM pOP pOP10 fs3">Vitacost Price:  $6.15</div>&#13;
+&#13;
+&#13;
+</div>
+XPATH //link[@rel='canonical']/@href  1 results
+ href="http://www.vitacost.com/airborne-effervescent-health-formula-orange"
+XPATH //div[@id='productDesc']//div[@id='RSTL_Right_Product']/div[@class='RSTL_RightCount_Product']/div  6 results
+<div style="font-weight:bold;margin-bottom:2px;"><div>Item #: AIR 5100010</div></div>
+<div style="font-weight:bold;"><div>SKU #: 647865100010</div></div>
+<div style="margin-bottom:2px;">Count: 10 Tablets</div>
+<div style="margin-bottom:2px;">Weight: 0.15 lb</div>
+<div style="margin-bottom:2px;">Serving: 1 Tablet </div>
+<div style="margin-bottom:2px;">Servings: 10</div>
+XPATH //span[@class='BVRRNumber BVRRRatingNumber']  20 results
+<span class="BVRRNumber BVRRRatingNumber">4.6</span>
+<span class="BVRRNumber BVRRRatingNumber">5</span>
+<span class="BVRRNumber BVRRRatingNumber">4.6</span>
+<span class="BVRRNumber BVRRRatingNumber">4.7</span>
+<span class="BVRRNumber BVRRRatingNumber">4.6</span>
+<span class="BVRRNumber BVRRRatingNumber">5</span>
+<span class="BVRRNumber BVRRRatingNumber">4.6</span>
+<span class="BVRRNumber BVRRRatingNumber">4.7</span>
+<span class="BVRRNumber BVRRRatingNumber">5</span>
+<span class="BVRRNumber BVRRRatingNumber">5</span>
+<span class="BVRRNumber BVRRRatingNumber">5</span>
+<span class="BVRRNumber BVRRRatingNumber">5</span>
+<span class="BVRRNumber BVRRRatingNumber">5</span>
+<span class="BVRRNumber BVRRRatingNumber">5</span>
+<span class="BVRRNumber BVRRRatingNumber">5</span>
+<span class="BVRRNumber BVRRRatingNumber">5</span>
+<span class="BVRRNumber BVRRRatingNumber">4.4</span>
+<span class="BVRRNumber BVRRRatingNumber">5</span>
+<span class="BVRRNumber BVRRRatingNumber">4.4</span>
+<span class="BVRRNumber BVRRRatingNumber">4.6</span>
+array (
+  'product.name' => 'Airborne Effervescent Health Formula Orange -- 10 Tablets',
+  'product.price-retail' => '$8.99',
+  'product.price-selling' => '$6.15',
+  'product.url' => 'http://www.vitacost.com/airborne-effervescent-health-formula-orange',
+  'product.rating' => NULL,
+  'product.reference' => 'AIR 5100010',
+  'product.upc' => '647865100010',
+  'product.quantity' => '10 Tablets',
+  'product.weight' => '0.15 lb',
+)'http://www.livamed.com/products/Nature%27s-Way-5%252dHTP-%252d-60-Tablets.html'opening document: http://www.livamed.com/products/Nature%27s-Way-5%252dHTP-%252d-60-Tablets.html
+loading...
+XPATH //div[@id='ProductDetails']//div[@class='BlockContent']  1 results
+-500 characters truncated ... ]
+XPATH h2  1 results
+<h2>Nature's Way 5-HTP - 60 Tablets</h2>
+XPATH div[@class='ProductMain']/div[@class='ProductDetailsGrid']/div[@class='DetailRow RetailPrice']/div[@class='Value']  1 results
+<div class="Value">
+                        <strike>$17.99</strike>
+                    </div>
+XPATH div[@class='ProductMain']/div[@class='ProductDetailsGrid']/div[@class='DetailRow PriceRow']/div[@class='Value']/em[@class='ProductPrice VariationProductPrice']  1 results
+<em class="ProductPrice VariationProductPrice">$11.14</em>
+XPATH div[@class='ProductMain']/div[@class='ProductDetailsGrid']/div[@class='DetailRow ProductSKU']/div[@class='Value']  1 results
+<div class="Value">
+                        <span class="VariationProductSKU">
+                            NW- 033674452509
+                        </span>
+                    </div>
+XPATH //div[@id='ProductDescription']/div[@class='ProductDescriptionContainer']  1 results
+-500 characters truncated ... ]
+array (
+  'product.name' => 'Nature\'s Way 5-HTP - 60 Tablets',
+  'product.price-retail' => '$17.99',
+  'product.price-selling' => '$11.14',
+  'product.upc' => 'NW- 033674452509',
+  'product.description' => '
+        
+            l-5-Hydroxytryptophan
+With Vitamin B6 & Vitamin C
+Natural Griffonia Bean Extract 
+Easy-to-swallow tablets
+l-5-Hydroxytryptophan is the precursor to serotonin, a mood and appetite regulating neurotransmitter produced within the body. It has been combined with Vitamin C and Vitamin B6, an important cofactor in the conversion to serotonin.
+Nature\'s Way uses natural l-5-HTP extracted from Griffonia simplicifolia beans produced in easy-to-swallow, enteric-coated tablets to minimalize any potential gastric discomfort.
+ 
+Directions
+Use under the guidance of a healthcare practitioner. Start with a low dose of 1 tablet (50 mg) taken daily with a meal. Increase the dose slowly (every 3-5 days) up to a maximum of 4 tablets taken daily (200 mg). Total daily intake should be divided into two or more doses, with no more than 2 tablets per dose.
+Ingredients Supplement FactsServing Size: 2 Tablets  Servings Per Container: 30 Amount Per Serving  % Daily Value  Vitamin C (ascorbic acid)  120 mg  200% Vitamin B6 (as pyridoxine HCI)  20 mg  1000% 5-HTP (l-5-Hydroxytryptophan) 100 mg  ** Daily Value not established. 
+Other Ingredients: Cellulose, maltodextrin, aqueous coating solution, modified cellulose gum, stearic acid, silica.
+        
+    ',
+)opening document: http://www.livamed.com/search.php?search_query=844197011018
+loading...
+XPATH //ul[@class='ProductList List Clear']/li  0 results
+XPATH //div[@class='CategoryPagination'][2]/ul[@class='PagingList']/li[@class='ActivePage']/following-sibling::*[1]/a/@href  0 results
+opening document: http://www.livamed.com/search.php?search_query=cs-dul
+loading...
+XPATH //ul[@class='ProductList List Clear']/li  1 results
+-500 characters truncated ... ]
+XPATH div[@class='ProductDetails']/strong  1 results
+<strong><a href="http://www.livamed.com/products/Dulcolax-Laxative-Tablets-5-mg-%252d-200-Comfort-Coated-Tablets.html" class="TrackLink">Dulcolax Laxative Tablets 5 mg - 200 Comfort Coated Tablets</a></strong>
+XPATH div[@class='ProductDetails']/strong/a/@href  1 results
+ href="http://www.livamed.com/products/Dulcolax-Laxative-Tablets-5-mg-%252d-200-Comfort-Coated-Tablets.html"
+XPATH div[@class='ProductDetails']/div[contains(@class,'Rating')]/@class  1 results
+ class="Rating Rating0"
+XPATH div[@class='ProductDetails']/div[@class='ProductDescription']  1 results
+<div class="ProductDescription">&#13;
+Dulcolax Laxative Tablets&#13;
+The #1 doctor recommended brand&#13;
+&#13;
+Dulcolax Laxative Tablets are trusted to provide gentle, predictable, overnight relief from occasional constipation. Dulcolax Laxative Tablets stimulate the bowel muscles to contract...</div>
+XPATH div[@class='ProductDetails']/span[@class='ProductRightCol']/span[@class='ProductPrice']/text()  1 results
+ $26.99
+XPATH div[@class='ProductDetails']/span[@class='ProductRightCol']/span[@class='ProductPrice']/strike  1 results
+<strike class="RetailPriceValue">$39.99</strike>
+XPATH //div[@class='CategoryPagination'][2]/ul[@class='PagingList']/li[@class='ActivePage']/following-sibling::*[1]/a/@href  0 results
+cs-dul	$26.99	$39.99	http://www.livamed.com/products/Dulcolax-Laxative-Tablets-5-mg-%252d-200-Comfort-Coated-Tablets.html
+opening document: http://www.livamed.com/search.php?search_query=889411545108
+loading...
+XPATH //ul[@class='ProductList List Clear']/li  1 results
+-500 characters truncated ... ]
+XPATH div[@class='ProductDetails']/strong  1 results
+<strong><a href="http://www.livamed.com/products/Cystex-Urinary-Pain-Relief-Tablets-%252d-100-Tablets-.html" class="TrackLink">Cystex Urinary Pain Relief Tablets - 100 Tablets </a></strong>
+XPATH div[@class='ProductDetails']/strong/a/@href  1 results
+ href="http://www.livamed.com/products/Cystex-Urinary-Pain-Relief-Tablets-%252d-100-Tablets-.html"
+XPATH div[@class='ProductDetails']/div[contains(@class,'Rating')]/@class  1 results
+ class="Rating Rating0"
+XPATH div[@class='ProductDetails']/div[@class='ProductDescription']  1 results
+<div class="ProductDescription">&#13;
+Urinary Pain Relief Tablets&#13;
+&#13;
+Antibacterial &amp; Analgesic&#13;
+Fast Relief of Frequent, Painful, Burning Urination&#13;
+Double Action Formula Fights Pain &amp; Burning Urination&#13;
+Sugar Free, Easy to Swallow&#13;
+&#13;
+Cystex is the only over-the-counter...</div>
+XPATH div[@class='ProductDetails']/span[@class='ProductRightCol']/span[@class='ProductPrice']/text()  1 results
+ $12.99
+XPATH div[@class='ProductDetails']/span[@class='ProductRightCol']/span[@class='ProductPrice']/strike  1 results
+<strike class="RetailPriceValue">$18.99</strike>
+XPATH //div[@class='CategoryPagination'][2]/ul[@class='PagingList']/li[@class='ActivePage']/following-sibling::*[1]/a/@href  0 results
+889411545108	$12.99	$18.99	http://www.livamed.com/products/Cystex-Urinary-Pain-Relief-Tablets-%252d-100-Tablets-.html
+opening document: http://www.livamed.com/search.php?search_query=040647130401
+loading...
+XPATH //ul[@class='ProductList List Clear']/li  1 results
+-500 characters truncated ... ]
+XPATH div[@class='ProductDetails']/strong  1 results
+<strong><a href="http://www.livamed.com/products/Nature%27s-Life-Vitamin-B%252d6-100mg-Tablets-%252d-50-Tablets.html" class="TrackLink">Nature's Life Vitamin B-6 100mg Tablets - 50 Tablets</a></strong>
+XPATH div[@class='ProductDetails']/strong/a/@href  1 results
+ href="http://www.livamed.com/products/Nature%27s-Life-Vitamin-B%252d6-100mg-Tablets-%252d-50-Tablets.html"
+XPATH div[@class='ProductDetails']/div[contains(@class,'Rating')]/@class  1 results
+ class="Rating Rating0"
+XPATH div[@class='ProductDetails']/div[@class='ProductDescription']  1 results
+<div class="ProductDescription">&#13;
+Nature's Life Vitamin B-6 100mg&#13;
+50 Tablets&#13;
+&#13;
+Vitamin B-6 is a coenzyme intended to provide nutritive support for healthy metabolism, red blood cell synthesis and nerve tissue function.&#13;
+Directions: &#13;
+Take one (1) tablet daily with food...</div>
+XPATH div[@class='ProductDetails']/span[@class='ProductRightCol']/span[@class='ProductPrice']/text()  1 results
+ $3.16
+XPATH div[@class='ProductDetails']/span[@class='ProductRightCol']/span[@class='ProductPrice']/strike  1 results
+<strike class="RetailPriceValue">$4.79</strike>
+XPATH //div[@class='CategoryPagination'][2]/ul[@class='PagingList']/li[@class='ActivePage']/following-sibling::*[1]/a/@href  0 results
+040647130401	$3.16	$4.79	http://www.livamed.com/products/Nature%27s-Life-Vitamin-B%252d6-100mg-Tablets-%252d-50-Tablets.html
+opening document: http://www.livamed.com/search.php?search_query=021078105794
+loading...
+XPATH //ul[@class='ProductList List Clear']/li  1 results
+-500 characters truncated ... ]
+XPATH div[@class='ProductDetails']/strong  1 results
+<strong><a href="http://www.livamed.com/products/Planetary-Herbals-Wormwood-Intestinal-Detox-Tablets-%252d-120-Tablets.html" class="TrackLink">Planetary Herbals Wormwood Intestinal Detox Tablets - 120 Tablets</a></strong>
+XPATH div[@class='ProductDetails']/strong/a/@href  1 results
+ href="http://www.livamed.com/products/Planetary-Herbals-Wormwood-Intestinal-Detox-Tablets-%252d-120-Tablets.html"
+XPATH div[@class='ProductDetails']/div[contains(@class,'Rating')]/@class  1 results
+ class="Rating Rating0"
+XPATH div[@class='ProductDetails']/div[@class='ProductDescription']  1 results
+<div class="ProductDescription">&#13;
+Wormwood Intestinal Detox&#13;
+With Triphala and Artemisia&#13;
+800 mg Tablet     &#13;
+Clears and detoxifies GI tract&#13;
+Promotes a healthy immune system&#13;
+Aids the development of natural, healthy gastrointestinal flora&#13;
+&#13;
+As our food supply...</div>
+XPATH div[@class='ProductDetails']/span[@class='ProductRightCol']/span[@class='ProductPrice']/text()  1 results
+ $16.99
+XPATH div[@class='ProductDetails']/span[@class='ProductRightCol']/span[@class='ProductPrice']/strike  1 results
+<strike class="RetailPriceValue">$30.50</strike>
+XPATH //div[@class='CategoryPagination'][2]/ul[@class='PagingList']/li[@class='ActivePage']/following-sibling::*[1]/a/@href  0 results
+021078105794	$16.99	$30.50	http://www.livamed.com/products/Planetary-Herbals-Wormwood-Intestinal-Detox-Tablets-%252d-120-Tablets.html
+opening document: http://www.livamed.com/search.php?search_query=364031532603
+loading...
+XPATH //ul[@class='ProductList List Clear']/li  1 results
+-500 characters truncated ... ]
+XPATH div[@class='ProductDetails']/strong  1 results
+<strong><a href="http://www.livamed.com/a-vogel-sage-menopause-tablets-60-tablets/" class="TrackLink">A Vogel, Sage Menopause Tablets - 60 Tablets</a></strong>
+XPATH div[@class='ProductDetails']/strong/a/@href  1 results
+ href="http://www.livamed.com/a-vogel-sage-menopause-tablets-60-tablets/"
+XPATH div[@class='ProductDetails']/div[contains(@class,'Rating')]/@class  1 results
+ class="Rating Rating0"
+XPATH div[@class='ProductDetails']/div[@class='ProductDescription']  1 results
+<div class="ProductDescription">&#13;
+Herbal Extract&#13;
+Support for hot flashes and sweats&#13;
+In small easy to take tablets.&#13;
+Dietary Supplement&#13;
+&#13;
+Sage is known for supporting normal perspiration. The popularity of this strongly scented herb and the capacity for its leaves to display...</div>
+XPATH div[@class='ProductDetails']/span[@class='ProductRightCol']/span[@class='ProductPrice']/text()  1 results
+ $17.99
+XPATH div[@class='ProductDetails']/span[@class='ProductRightCol']/span[@class='ProductPrice']/strike  1 results
+<strike class="RetailPriceValue">$24.99</strike>
+XPATH //div[@class='CategoryPagination'][2]/ul[@class='PagingList']/li[@class='ActivePage']/following-sibling::*[1]/a/@href  0 results
+364031532603	$17.99	$24.99	http://www.livamed.com/a-vogel-sage-menopause-tablets-60-tablets/
+opening document: http://www.livamed.com/search.php?search_query=364031532405
+loading...
+XPATH //ul[@class='ProductList List Clear']/li  1 results
+-500 characters truncated ... ]
+XPATH div[@class='ProductDetails']/strong  1 results
+<strong><a href="http://www.livamed.com/a-vogel-liver-gallbladder-tablets-60-tablets/" class="TrackLink">A Vogel, Liver Gallbladder Tablets - 60 Tablets</a></strong>
+XPATH div[@class='ProductDetails']/strong/a/@href  1 results
+ href="http://www.livamed.com/a-vogel-liver-gallbladder-tablets-60-tablets/"
+XPATH div[@class='ProductDetails']/div[contains(@class,'Rating')]/@class  1 results
+ class="Rating Rating0"
+XPATH div[@class='ProductDetails']/div[@class='ProductDescription']  1 results
+<div class="ProductDescription">&#13;
+Supports healthy liver and gallbladder function&#13;
+Supports natural cleansing of toxins&#13;
+Supports good digestion&#13;
+Unique combination of 5 herbs to enhance liver and gallbladder function&#13;
+&#13;
+The liver performs many vital functions in the body. It...</div>
+XPATH div[@class='ProductDetails']/span[@class='ProductRightCol']/span[@class='ProductPrice']/text()  1 results
+ $14.99
+XPATH div[@class='ProductDetails']/span[@class='ProductRightCol']/span[@class='ProductPrice']/strike  1 results
+<strike class="RetailPriceValue">$22.99</strike>
+XPATH //div[@class='CategoryPagination'][2]/ul[@class='PagingList']/li[@class='ActivePage']/following-sibling::*[1]/a/@href  0 results
+364031532405	$14.99	$22.99	http://www.livamed.com/a-vogel-liver-gallbladder-tablets-60-tablets/
+opening document: http://www.livamed.com/search.php?search_query=354973290440
+loading...
+XPATH //ul[@class='ProductList List Clear']/li  1 results
+-500 characters truncated ... ]
+XPATH div[@class='ProductDetails']/strong  1 results
+<strong><a href="http://www.livamed.com/products/Hyland%27s-Arnica-Montana-30X-%252d-250-Tablets-.html" class="TrackLink">Hyland's Arnica Montana 30X - 250 Tablets </a></strong>
+XPATH div[@class='ProductDetails']/strong/a/@href  1 results
+ href="http://www.livamed.com/products/Hyland%27s-Arnica-Montana-30X-%252d-250-Tablets-.html"
+XPATH div[@class='ProductDetails']/div[contains(@class,'Rating')]/@class  1 results
+ class="Rating Rating0"
+XPATH div[@class='ProductDetails']/div[@class='ProductDescription']  1 results
+<div class="ProductDescription">&#13;
+Homeopathic Medicine&#13;
+250 Tablets&#13;
+from Hyland's&#13;
+Bruising &amp; Muscle Soreness&#13;
+&#13;
+ &#13;
+Directions&#13;
+Adults: Dissolve 4 tablets under tongue 4 times a day.Children: 2 tablets as above.&#13;
+Ingredients&#13;
+Supplement Facts In a base of Lactose N...</div>
+XPATH div[@class='ProductDetails']/span[@class='ProductRightCol']/span[@class='ProductPrice']/text()  1 results
+ $8.99
+XPATH div[@class='ProductDetails']/span[@class='ProductRightCol']/span[@class='ProductPrice']/strike  1 results
+<strike class="RetailPriceValue">$11.99</strike>
+XPATH //div[@class='CategoryPagination'][2]/ul[@class='PagingList']/li[@class='ActivePage']/following-sibling::*[1]/a/@href  0 results
+354973290440	$8.99	$11.99	http://www.livamed.com/products/Hyland%27s-Arnica-Montana-30X-%252d-250-Tablets-.html
+opening document: http://www.livamed.com/search.php?search_query=033674452509
+loading...
+XPATH //ul[@class='ProductList List Clear']/li  1 results
+-500 characters truncated ... ]
+XPATH div[@class='ProductDetails']/strong  1 results
+<strong><a href="http://www.livamed.com/products/Nature%27s-Way-5%252dHTP-%252d-60-Tablets.html" class="TrackLink">Nature's Way 5-HTP - 60 Tablets</a></strong>
+XPATH div[@class='ProductDetails']/strong/a/@href  1 results
+ href="http://www.livamed.com/products/Nature%27s-Way-5%252dHTP-%252d-60-Tablets.html"
+XPATH div[@class='ProductDetails']/div[contains(@class,'Rating')]/@class  1 results
+ class="Rating Rating0"
+XPATH div[@class='ProductDetails']/div[@class='ProductDescription']  1 results
+<div class="ProductDescription">&#13;
+l-5-Hydroxytryptophan&#13;
+With Vitamin B6 &amp; Vitamin C&#13;
+Natural Griffonia Bean Extract &#13;
+Easy-to-swallow tablets&#13;
+&#13;
+l-5-Hydroxytryptophan is the precursor to serotonin, a mood and appetite regulating neurotransmitter produced within the body...</div>
+XPATH div[@class='ProductDetails']/span[@class='ProductRightCol']/span[@class='ProductPrice']/text()  1 results
+ $11.14
+XPATH div[@class='ProductDetails']/span[@class='ProductRightCol']/span[@class='ProductPrice']/strike  1 results
+<strike class="RetailPriceValue">$17.99</strike>
+XPATH //div[@class='CategoryPagination'][2]/ul[@class='PagingList']/li[@class='ActivePage']/following-sibling::*[1]/a/@href  0 results
+033674452509	$11.14	$17.99	http://www.livamed.com/products/Nature%27s-Way-5%252dHTP-%252d-60-Tablets.html
+opening document: http://www.livamed.com/search.php?search_query=021078007210
+loading...
+XPATH //ul[@class='ProductList List Clear']/li  1 results
+-500 characters truncated ... ]
+XPATH div[@class='ProductDetails']/strong  1 results
+<strong><a href="http://www.livamed.com/products/Source-Naturals-Melatonin-1-mg-%252d-300-Tablets.html" class="TrackLink">Source Naturals Melatonin 1 mg - 300 Tablets</a></strong>
+XPATH div[@class='ProductDetails']/strong/a/@href  1 results
+ href="http://www.livamed.com/products/Source-Naturals-Melatonin-1-mg-%252d-300-Tablets.html"
+XPATH div[@class='ProductDetails']/div[contains(@class,'Rating')]/@class  1 results
+ class="Rating Rating0"
+XPATH div[@class='ProductDetails']/div[@class='ProductDescription']  1 results
+<div class="ProductDescription">&#13;
+Melatonin 1mg&#13;
+For Occasional Sleeplessness &#13;
+&#13;
+Melatonin is a neurohormone produced in humans by the pineal gland. A favorite of travelers, it governs the body's circadian rhythms, helping the body ease into restful sleep. Melatonin is also a...</div>
+XPATH div[@class='ProductDetails']/span[@class='ProductRightCol']/span[@class='ProductPrice']/text()  1 results
+ $11.79
+XPATH div[@class='ProductDetails']/span[@class='ProductRightCol']/span[@class='ProductPrice']/strike  1 results
+<strike class="RetailPriceValue">$21.50</strike>
+XPATH //div[@class='CategoryPagination'][2]/ul[@class='PagingList']/li[@class='ActivePage']/following-sibling::*[1]/a/@href  0 results
+021078007210	$11.79	$21.50	http://www.livamed.com/products/Source-Naturals-Melatonin-1-mg-%252d-300-Tablets.html
+opening document: http://www.livamed.com/search.php?search_query=731111834238
+loading...
+XPATH //ul[@class='ProductList List Clear']/li  1 results
+-500 characters truncated ... ]
+XPATH div[@class='ProductDetails']/strong  1 results
+<strong><a href="http://www.livamed.com/products/Premier-One-BeePlex-%252d-60-Tablets.html" class="TrackLink">Premier One BeePlex - 60 Tablets</a></strong>
+XPATH div[@class='ProductDetails']/strong/a/@href  1 results
+ href="http://www.livamed.com/products/Premier-One-BeePlex-%252d-60-Tablets.html"
+XPATH div[@class='ProductDetails']/div[contains(@class,'Rating')]/@class  1 results
+ class="Rating Rating0"
+XPATH div[@class='ProductDetails']/div[@class='ProductDescription']  1 results
+<div class="ProductDescription">&#13;
+Premier One BeePlex&#13;
+60 Tablets&#13;
+&#13;
+ &#13;
+ </div>
+XPATH div[@class='ProductDetails']/span[@class='ProductRightCol']/span[@class='ProductPrice']/text()  1 results
+ $8.57
+XPATH div[@class='ProductDetails']/span[@class='ProductRightCol']/span[@class='ProductPrice']/strike  1 results
+<strike class="RetailPriceValue">$12.99</strike>
+XPATH //div[@class='CategoryPagination'][2]/ul[@class='PagingList']/li[@class='ActivePage']/following-sibling::*[1]/a/@href  0 results
+731111834238	$8.57	$12.99	http://www.livamed.com/products/Premier-One-BeePlex-%252d-60-Tablets.html
+opening document: http://www.vitacost.com/Search.aspx?ntk=products&Ntt=844197011018
+loading...
+XPATH //div[@class='srListing']  0 results
+XPATH //div[@id='productDesc']  1 results
+-500 characters truncated ... ]
+XPATH //div[@class='RSTL_RightTitle_Product']  1 results
+<div class="RSTL_RightTitle_Product"> <!-- title -->&#13;
+Vitacost Synergy Once DailyÂ® Multi-Vitamin -- 60 Capsules&#13;
+</div>
+XPATH //div[@id='rightSideWrapper']/div[@class='RSTR_TopRetail_Product']  1 results
+<div class="RSTR_TopRetail_Product"><!-- retail -->&#13;
+&#13;
+</div>
+XPATH //div[@id='rightSideWrapper']/div[@class='RSTR_TopValue_Product']  1 results
+<div class="RSTR_TopValue_Product"><!-- value price -->&#13;
+<div class="pOurPriceM pOP pOP10 fs3">Vitacost Price:  $19.99</div>&#13;
+&#13;
+&#13;
+</div>
+XPATH //link[@rel='canonical']/@href  1 results
+ href="http://www.vitacost.com/vitacost-synergy-once-daily-multi-vitamin-60-capsules-1"
+XPATH //div[@id='productDesc']//div[@id='RSTL_Right_Product']/div[@class='RSTL_RightCount_Product']/div  6 results
+<div style="font-weight:bold;margin-bottom:2px;"><div>Item #: NSI 7011018</div></div>
+<div style="font-weight:bold;"><div>SKU #: 844197011018</div></div>
+<div style="margin-bottom:2px;">Count: 60 Capsules</div>
+<div style="margin-bottom:2px;">Weight: 0.18 lb</div>
+<div style="margin-bottom:2px;">Serving: 1 Capsule </div>
+<div style="margin-bottom:2px;">Servings: 60</div>
+XPATH //span[@class='BVRRNumber BVRRRatingNumber']  28 results
+<span class="BVRRNumber BVRRRatingNumber">4.6</span>
+<span class="BVRRNumber BVRRRatingNumber">4.7</span>
+<span class="BVRRNumber BVRRRatingNumber">4.6</span>
+<span class="BVRRNumber BVRRRatingNumber">4.6</span>
+<span class="BVRRNumber BVRRRatingNumber">4.6</span>
+<span class="BVRRNumber BVRRRatingNumber">4.7</span>
+<span class="BVRRNumber BVRRRatingNumber">4.6</span>
+<span class="BVRRNumber BVRRRatingNumber">4.6</span>
+<span class="BVRRNumber BVRRRatingNumber">5</span>
+<span class="BVRRNumber BVRRRatingNumber">5</span>
+<span class="BVRRNumber BVRRRatingNumber">5</span>
+<span class="BVRRNumber BVRRRatingNumber">5</span>
+<span class="BVRRNumber BVRRRatingNumber">5</span>
+<span class="BVRRNumber BVRRRatingNumber">5</span>
+<span class="BVRRNumber BVRRRatingNumber">5</span>
+<span class="BVRRNumber BVRRRatingNumber">5</span>
+<span class="BVRRNumber BVRRRatingNumber">4</span>
+<span class="BVRRNumber BVRRRatingNumber">4</span>
+<span class="BVRRNumber BVRRRatingNumber">4</span>
+<span class="BVRRNumber BVRRRatingNumber">4</span>
+<span class="BVRRNumber BVRRRatingNumber">4</span>
+<span class="BVRRNumber BVRRRatingNumber">4</span>
+<span class="BVRRNumber BVRRRatingNumber">4</span>
+<span class="BVRRNumber BVRRRatingNumber">4</span>
+<span class="BVRRNumber BVRRRatingNumber">5</span>
+<span class="BVRRNumber BVRRRatingNumber">5</span>
+<span class="BVRRNumber BVRRRatingNumber">5</span>
+<span class="BVRRNumber BVRRRatingNumber">5</span>
+844197011018	$19.99		http://www.vitacost.com/vitacost-synergy-once-daily-multi-vitamin-60-capsules-1
+opening document: http://www.vitacost.com/Search.aspx?ntk=products&Ntt=cs-dul
+loading...
+XPATH //div[@class='srListing']  1 results
+-500 characters truncated ... ]
+XPATH //div[@class='srListing']  1 results
+-500 characters truncated ... ]
+XPATH //div[@class='spPLB']/div/div[@class='pltgR']/div[@class='pltgRin cf']/div[@class='pltgPL brR']/div[@class='pltgPLin']/div[@class='pt0 cf']/div[@class='pt9P cf clear']  0 results
+XPATH //a[@id='IamMasterFrameYesIam_ctl02_EndecaTopPagination_next']/@href  0 results
+opening document: http://www.vitacost.com/Search.aspx?ntk=products&Ntt=889411545108
+loading...
+XPATH //div[@class='srListing']  1 results
+-500 characters truncated ... ]
+XPATH //div[@class='srListing']  1 results
+-500 characters truncated ... ]
+XPATH //div[@class='spPLB']/div/div[@class='pltgR']/div[@class='pltgRin cf']/div[@class='pltgPL brR']/div[@class='pltgPLin']/div[@class='pt0 cf']/div[@class='pt9P cf clear']  0 results
+XPATH //a[@id='IamMasterFrameYesIam_ctl02_EndecaTopPagination_next']/@href  0 results
+opening document: http://www.vitacost.com/Search.aspx?ntk=products&Ntt=040647130401
+loading...
+XPATH //div[@class='srListing']  1 results
+-500 characters truncated ... ]
+XPATH //div[@class='srListing']  1 results
+-500 characters truncated ... ]
+XPATH //div[@class='spPLB']/div/div[@class='pltgR']/div[@class='pltgRin cf']/div[@class='pltgPL brR']/div[@class='pltgPLin']/div[@class='pt0 cf']/div[@class='pt9P cf clear']  0 results
+XPATH //a[@id='IamMasterFrameYesIam_ctl02_EndecaTopPagination_next']/@href  0 results
+opening document: http://www.vitacost.com/Search.aspx?ntk=products&Ntt=021078105794
+loading...
+XPATH //div[@class='srListing']  1 results
+-500 characters truncated ... ]
+XPATH //div[@class='srListing']  1 results
+-500 characters truncated ... ]
+XPATH //div[@class='spPLB']/div/div[@class='pltgR']/div[@class='pltgRin cf']/div[@class='pltgPL brR']/div[@class='pltgPLin']/div[@class='pt0 cf']/div[@class='pt9P cf clear']  0 results
+XPATH //a[@id='IamMasterFrameYesIam_ctl02_EndecaTopPagination_next']/@href  0 results
+opening document: http://www.vitacost.com/Search.aspx?ntk=products&Ntt=364031532603
+loading...
+XPATH //div[@class='srListing']  0 results
+XPATH //div[@id='productDesc']  1 results
+-500 characters truncated ... ]
+XPATH //div[@class='RSTL_RightTitle_Product']  1 results
+<div class="RSTL_RightTitle_Product"> <!-- title -->&#13;
+A Vogel Sage Menopause Tablets -- 60 Tablets&#13;
+</div>
+XPATH //div[@id='rightSideWrapper']/div[@class='RSTR_TopRetail_Product']  1 results
+<div class="RSTR_TopRetail_Product"><!-- retail -->&#13;
+&#13;
+<div class="pRetailPrice fs pRP10 txtI">Retail price: $26.99</div>&#13;
+&#13;
+&#13;
+&#13;
+</div>
+XPATH //div[@id='rightSideWrapper']/div[@class='RSTR_TopValue_Product']  1 results
+<div class="RSTR_TopValue_Product"><!-- value price -->&#13;
+<div class="pOurPriceM pOP pOP10 fs3">Vitacost Price:  $18.35</div>&#13;
+&#13;
+&#13;
+</div>
+XPATH //link[@rel='canonical']/@href  1 results
+ href="http://www.vitacost.com/a-vogel-sage-menopause-tablets"
+XPATH //div[@id='productDesc']//div[@id='RSTL_Right_Product']/div[@class='RSTL_RightCount_Product']/div  6 results
+<div style="font-weight:bold;margin-bottom:2px;"><div>Item #: VOG 1532603</div></div>
+<div style="font-weight:bold;"><div>SKU #: 364031532603</div></div>
+<div style="margin-bottom:2px;">Count: 60 Tablets</div>
+<div style="margin-bottom:2px;">Weight: 0.25 lb</div>
+<div style="margin-bottom:2px;">Serving: 1 Tablet </div>
+<div style="margin-bottom:2px;">Servings: 60</div>
+XPATH //span[@class='BVRRNumber BVRRRatingNumber']  0 results
+364031532603	$18.35	$26.99	http://www.vitacost.com/a-vogel-sage-menopause-tablets
+opening document: http://www.vitacost.com/Search.aspx?ntk=products&Ntt=364031532405
+loading...
+XPATH //div[@class='srListing']  0 results
+XPATH //div[@id='productDesc']  1 results
+-500 characters truncated ... ]
+XPATH //div[@class='RSTL_RightTitle_Product']  1 results
+<div class="RSTL_RightTitle_Product"> <!-- title -->&#13;
+A Vogel Liver Gallbladder Tablets -- 60 Tablets&#13;
+</div>
+XPATH //div[@id='rightSideWrapper']/div[@class='RSTR_TopRetail_Product']  1 results
+<div class="RSTR_TopRetail_Product"><!-- retail -->&#13;
+&#13;
+<div class="pRetailPrice fs pRP10 txtI">Retail price: $24.99</div>&#13;
+&#13;
+&#13;
+&#13;
+</div>
+XPATH //div[@id='rightSideWrapper']/div[@class='RSTR_TopValue_Product']  1 results
+<div class="RSTR_TopValue_Product"><!-- value price -->&#13;
+<div class="pOurPriceM pOP pOP10 fs3">Vitacost Price:  $15.79</div>&#13;
+&#13;
+&#13;
+</div>
+XPATH //link[@rel='canonical']/@href  1 results
+ href="http://www.vitacost.com/a-vogel-liver-gallbladder-tablets"
+XPATH //div[@id='productDesc']//div[@id='RSTL_Right_Product']/div[@class='RSTL_RightCount_Product']/div  6 results
+<div style="font-weight:bold;margin-bottom:2px;"><div>Item #: VOG 1532405</div></div>
+<div style="font-weight:bold;"><div>SKU #: 364031532405</div></div>
+<div style="margin-bottom:2px;">Count: 60 Tablets</div>
+<div style="margin-bottom:2px;">Weight: 0.26 lb</div>
+<div style="margin-bottom:2px;">Serving: 1 Tablet </div>
+<div style="margin-bottom:2px;">Servings: 60</div>
+XPATH //span[@class='BVRRNumber BVRRRatingNumber']  0 results
+364031532405	$15.79	$24.99	http://www.vitacost.com/a-vogel-liver-gallbladder-tablets
+opening document: http://www.vitacost.com/Search.aspx?ntk=products&Ntt=354973290440
+loading...
+XPATH //div[@class='srListing']  0 results
+XPATH //div[@id='productDesc']  1 results
+-500 characters truncated ... ]
+XPATH //div[@class='RSTL_RightTitle_Product']  1 results
+<div class="RSTL_RightTitle_Product"> <!-- title -->&#13;
+Hyland's Arnica Montana 30x -- 250 Tablets&#13;
+</div>
+XPATH //div[@id='rightSideWrapper']/div[@class='RSTR_TopRetail_Product']  1 results
+<div class="RSTR_TopRetail_Product"><!-- retail -->&#13;
+&#13;
+<div class="pRetailPrice fs pRP10 txtI">Retail price: $8.49</div>&#13;
+&#13;
+&#13;
+&#13;
+</div>
+XPATH //div[@id='rightSideWrapper']/div[@class='RSTR_TopValue_Product']  1 results
+<div class="RSTR_TopValue_Product"><!-- value price -->&#13;
+<div class="pOurPriceM pOP pOP10 fs3">Vitacost Price:  $5.48</div>&#13;
+&#13;
+&#13;
+</div>
+XPATH //link[@rel='canonical']/@href  1 results
+ href="http://www.vitacost.com/hylands-arnica-montana-30x-250-tablets"
+XPATH //div[@id='productDesc']//div[@id='RSTL_Right_Product']/div[@class='RSTL_RightCount_Product']/div  4 results
+<div style="font-weight:bold;margin-bottom:2px;"><div>Item #: HYL 3290440</div></div>
+<div style="font-weight:bold;"><div>SKU #: 354973290440</div></div>
+<div style="margin-bottom:2px;">Count: 250 Tablets</div>
+<div style="margin-bottom:2px;">Weight: 0.06 lb</div>
+XPATH //span[@class='BVRRNumber BVRRRatingNumber']  28 results
+<span class="BVRRNumber BVRRRatingNumber">4.9</span>
+<span class="BVRRNumber BVRRRatingNumber">4.8</span>
+<span class="BVRRNumber BVRRRatingNumber">4.7</span>
+<span class="BVRRNumber BVRRRatingNumber">4.8</span>
+<span class="BVRRNumber BVRRRatingNumber">4.9</span>
+<span class="BVRRNumber BVRRRatingNumber">4.8</span>
+<span class="BVRRNumber BVRRRatingNumber">4.7</span>
+<span class="BVRRNumber BVRRRatingNumber">4.8</span>
+<span class="BVRRNumber BVRRRatingNumber">5</span>
+<span class="BVRRNumber BVRRRatingNumber">5</span>
+<span class="BVRRNumber BVRRRatingNumber">5</span>
+<span class="BVRRNumber BVRRRatingNumber">5</span>
+<span class="BVRRNumber BVRRRatingNumber">5</span>
+<span class="BVRRNumber BVRRRatingNumber">5</span>
+<span class="BVRRNumber BVRRRatingNumber">5</span>
+<span class="BVRRNumber BVRRRatingNumber">5</span>
+<span class="BVRRNumber BVRRRatingNumber">5</span>
+<span class="BVRRNumber BVRRRatingNumber">5</span>
+<span class="BVRRNumber BVRRRatingNumber">5</span>
+<span class="BVRRNumber BVRRRatingNumber">5</span>
+<span class="BVRRNumber BVRRRatingNumber">5</span>
+<span class="BVRRNumber BVRRRatingNumber">5</span>
+<span class="BVRRNumber BVRRRatingNumber">5</span>
+<span class="BVRRNumber BVRRRatingNumber">5</span>
+<span class="BVRRNumber BVRRRatingNumber">5</span>
+<span class="BVRRNumber BVRRRatingNumber">5</span>
+<span class="BVRRNumber BVRRRatingNumber">5</span>
+<span class="BVRRNumber BVRRRatingNumber">5</span>
+354973290440	$5.48	$8.49	http://www.vitacost.com/hylands-arnica-montana-30x-250-tablets
+opening document: http://www.vitacost.com/Search.aspx?ntk=products&Ntt=033674452509
+loading...
+XPATH //div[@class='srListing']  0 results
+XPATH //div[@id='productDesc']  1 results
+-500 characters truncated ... ]
+XPATH //div[@class='RSTL_RightTitle_Product']  1 results
+<div class="RSTL_RightTitle_Product"> <!-- title -->&#13;
+Nature's Way 5-HTP -- 60 Tablets&#13;
+</div>
+XPATH //div[@id='rightSideWrapper']/div[@class='RSTR_TopRetail_Product']  1 results
+<div class="RSTR_TopRetail_Product"><!-- retail -->&#13;
+&#13;
+<div class="pRetailPrice fs pRP10 txtI">Retail price: $18.99</div>&#13;
+&#13;
+&#13;
+&#13;
+</div>
+XPATH //div[@id='rightSideWrapper']/div[@class='RSTR_TopValue_Product']  1 results
+<div class="RSTR_TopValue_Product"><!-- value price -->&#13;
+<div class="pOurPriceM pOP pOP10 fs3">Vitacost Price:  $8.62</div>&#13;
+&#13;
+&#13;
+</div>
+XPATH //link[@rel='canonical']/@href  1 results
+ href="http://www.vitacost.com/natures-way-5-htp-60-tablets"
+XPATH //div[@id='productDesc']//div[@id='RSTL_Right_Product']/div[@class='RSTL_RightCount_Product']/div  6 results
+<div style="font-weight:bold;margin-bottom:2px;"><div>Item #: NTW 4452509</div></div>
+<div style="font-weight:bold;"><div>SKU #: 033674452509</div></div>
+<div style="margin-bottom:2px;">Count: 60 Tablets</div>
+<div style="margin-bottom:2px;">Weight: 0.11 lb</div>
+<div style="margin-bottom:2px;">Serving: 2 Tablets </div>
+<div style="margin-bottom:2px;">Servings: 30</div>
+XPATH //span[@class='BVRRNumber BVRRRatingNumber']  28 results
+<span class="BVRRNumber BVRRRatingNumber">4.8</span>
+<span class="BVRRNumber BVRRRatingNumber">4.7</span>
+<span class="BVRRNumber BVRRRatingNumber">4.5</span>
+<span class="BVRRNumber BVRRRatingNumber">4.5</span>
+<span class="BVRRNumber BVRRRatingNumber">4.8</span>
+<span class="BVRRNumber BVRRRatingNumber">4.7</span>
+<span class="BVRRNumber BVRRRatingNumber">4.5</span>
+<span class="BVRRNumber BVRRRatingNumber">4.5</span>
+<span class="BVRRNumber BVRRRatingNumber">5</span>
+<span class="BVRRNumber BVRRRatingNumber">5</span>
+<span class="BVRRNumber BVRRRatingNumber">5</span>
+<span class="BVRRNumber BVRRRatingNumber">5</span>
+<span class="BVRRNumber BVRRRatingNumber">5</span>
+<span class="BVRRNumber BVRRRatingNumber">5</span>
+<span class="BVRRNumber BVRRRatingNumber">4</span>
+<span class="BVRRNumber BVRRRatingNumber">4</span>
+<span class="BVRRNumber BVRRRatingNumber">5</span>
+<span class="BVRRNumber BVRRRatingNumber">5</span>
+<span class="BVRRNumber BVRRRatingNumber">5</span>
+<span class="BVRRNumber BVRRRatingNumber">5</span>
+<span class="BVRRNumber BVRRRatingNumber">3</span>
+<span class="BVRRNumber BVRRRatingNumber">3</span>
+<span class="BVRRNumber BVRRRatingNumber">2</span>
+<span class="BVRRNumber BVRRRatingNumber">2</span>
+<span class="BVRRNumber BVRRRatingNumber">5</span>
+<span class="BVRRNumber BVRRRatingNumber">4</span>
+<span class="BVRRNumber BVRRRatingNumber">4</span>
+<span class="BVRRNumber BVRRRatingNumber">4</span>
+033674452509	$8.62	$18.99	http://www.vitacost.com/natures-way-5-htp-60-tablets
+opening document: http://www.vitacost.com/Search.aspx?ntk=products&Ntt=021078007210
+loading...
+XPATH //div[@class='srListing']  0 results
+XPATH //div[@id='productDesc']  1 results
+-500 characters truncated ... ]
+XPATH //div[@class='RSTL_RightTitle_Product']  1 results
+<div class="RSTL_RightTitle_Product"> <!-- title -->&#13;
+Source Naturals Melatonin -- 1 mg - 300 Tablets&#13;
+</div>
+XPATH //div[@id='rightSideWrapper']/div[@class='RSTR_TopRetail_Product']  1 results
+<div class="RSTR_TopRetail_Product"><!-- retail -->&#13;
+&#13;
+<div class="pRetailPrice fs pRP10 txtI">Retail price: $21.98</div>&#13;
+&#13;
+&#13;
+&#13;
+</div>
+XPATH //div[@id='rightSideWrapper']/div[@class='RSTR_TopValue_Product']  1 results
+<div class="RSTR_TopValue_Product"><!-- value price -->&#13;
+<div class="pOurPriceM pOP pOP10 fs3">Vitacost Price:  $13.91</div>&#13;
+&#13;
+&#13;
+</div>
+XPATH //link[@rel='canonical']/@href  1 results
+ href="http://www.vitacost.com/source-naturals-melatonin-1-mg-300-tablets"
+XPATH //div[@id='productDesc']//div[@id='RSTL_Right_Product']/div[@class='RSTL_RightCount_Product']/div  7 results
+<div style="font-weight:bold;margin-bottom:2px;"><div>Item #: SRN 8007210</div></div>
+<div style="font-weight:bold;"><div>SKU #: 021078007210</div></div>
+<div style="margin-bottom:2px;">Count: 300 Tablets</div>
+<div style="margin-bottom:2px;">Weight: 0.26 lb</div>
+<div style="margin-bottom:2px;">Serving: 3 Tablets </div>
+<div style="margin-bottom:2px;">Servings: 100</div>
+<div style="margin-bottom:2px;">Potency: 1 mg</div>
+XPATH //span[@class='BVRRNumber BVRRRatingNumber']  0 results
+021078007210	$13.91	$21.98	http://www.vitacost.com/source-naturals-melatonin-1-mg-300-tablets
+opening document: http://www.vitacost.com/Search.aspx?ntk=products&Ntt=731111834238
+loading...
+XPATH //div[@class='srListing']  1 results
+-500 characters truncated ... ]
+XPATH //div[@class='srListing']  1 results
+-500 characters truncated ... ]
+XPATH //div[@class='spPLB']/div/div[@class='pltgR']/div[@class='pltgRin cf']/div[@class='pltgPL brR']/div[@class='pltgPLin']/div[@class='pt0 cf']/div[@class='pt9P cf clear']  0 results
+XPATH //a[@id='IamMasterFrameYesIam_ctl02_EndecaTopPagination_next']/@href  0 results
+opening document: http://www.vitacost.com/Search.aspx?ntk=products&Ntt=virgin
+loading...
+XPATH //div[@class='srListing']  1 results
+-500 characters truncated ... ]
+XPATH //div[@class='srListing']  1 results
+-500 characters truncated ... ]
+XPATH //div[@class='spPLB']/div/div[@class='pltgR']/div[@class='pltgRin cf']/div[@class='pltgPL brR']/div[@class='pltgPLin']/div[@class='pt0 cf']/div[@class='pt9P cf clear']  7 results
+-500 characters truncated ... ]
+-500 characters truncated ... ]
+-500 characters truncated ... ]
+-500 characters truncated ... ]
+-500 characters truncated ... ]
+-500 characters truncated ... ]
+-500 characters truncated ... ]
+XPATH div[@class='prdTrm']/a  1 results
+<a href="/vitacost-extra-virgin-certified-organic-coconut-oil-54-fl-oz-4" title="View more information about Vitacost Extra Virgin Certified Organic Coconut Oil" class="pNameM cf">Vitacost Extra Virgin Certified Organic Coconut Oil -- 54 fl oz</a>
+XPATH div[@class='prdTrm']/a/@href  1 results
+ href="/vitacost-extra-virgin-certified-organic-coconut-oil-54-fl-oz-4"
+XPATH div[@id='bottomPricing']//div[@class='pOurPriceL']  1 results
+<div class="pOurPriceL">Vitacost Price: $20.99</div>
+XPATH div[@id='bottomPricing']//div[@class='fs-1 txtI']  0 results
+XPATH div/div[@class='pRating']/a/img/@src  5 results
+ src="/Images/ProductRating/10.gif"
+ src="/Images/ProductRating/10.gif"
+ src="/Images/ProductRating/10.gif"
+ src="/Images/ProductRating/10.gif"
+ src="/Images/ProductRating/9.gif"
+XPATH div[@class='prdTrm']/a  1 results
+<a href="/nutiva-extra-virgin-coconut-oil-organic-54-fl-oz" title="View more information about Nutiva Extra Virgin Coconut Oil Organic" class="pNameM cf">Nutiva Extra Virgin Coconut Oil Organic -- 54 fl oz</a>
+XPATH div[@class='prdTrm']/a/@href  1 results
+ href="/nutiva-extra-virgin-coconut-oil-organic-54-fl-oz"
+XPATH div[@id='bottomPricing']//div[@class='pOurPriceL']  1 results
+<div class="pOurPriceL">Vitacost Price: $25.02</div>
+XPATH div[@id='bottomPricing']//div[@class='fs-1 txtI']  1 results
+<div class="fs-1 txtI">Retail price: $37.99</div>
+XPATH div/div[@class='pRating']/a/img/@src  5 results
+ src="/Images/ProductRating/10.gif"
+ src="/Images/ProductRating/10.gif"
+ src="/Images/ProductRating/10.gif"
+ src="/Images/ProductRating/10.gif"
+ src="/Images/ProductRating/9.gif"
+XPATH div[@class='prdTrm']/a  1 results
+<a href="/newmans-own-organic-olive-oil-extra-virgin" title="View more information about Newman's Own Organic Olive Oil Extra Virgin" class="pNameM cf">Newman's Own Organic Olive Oil Extra Virgin -- 25 fl oz</a>
+XPATH div[@class='prdTrm']/a/@href  1 results
+ href="/newmans-own-organic-olive-oil-extra-virgin"
+XPATH div[@id='bottomPricing']//div[@class='pOurPriceL']  1 results
+<div class="pOurPriceL">Vitacost Price: $11.08</div>
+XPATH div[@id='bottomPricing']//div[@class='fs-1 txtI']  1 results
+<div class="fs-1 txtI">Retail price: $15.99</div>
+XPATH div/div[@class='pRating']/a/img/@src  5 results
+ src="/Images/ProductRating/10.gif"
+ src="/Images/ProductRating/10.gif"
+ src="/Images/ProductRating/10.gif"
+ src="/Images/ProductRating/10.gif"
+ src="/Images/ProductRating/8.gif"
+XPATH div[@class='prdTrm']/a  1 results
+<a href="/garden-of-life-extra-virgin-organic-coconut-oil-32-fl-oz" title="View more information about Garden of Life Extra Virgin Organic Coconut Oil" class="pNameM cf">Garden of Life Extra Virgin Organic Coconut Oil -- 32 fl oz</a>
+XPATH div[@class='prdTrm']/a/@href  1 results
+ href="/garden-of-life-extra-virgin-organic-coconut-oil-32-fl-oz"
+XPATH div[@id='bottomPricing']//div[@class='pOurPriceL']  1 results
+<div class="pOurPriceL">Vitacost Price: $19.33</div>
+XPATH div[@id='bottomPricing']//div[@class='fs-1 txtI']  1 results
+<div class="fs-1 txtI">Retail price: $30.85</div>
+XPATH div/div[@class='pRating']/a/img/@src  5 results
+ src="/Images/ProductRating/10.gif"
+ src="/Images/ProductRating/10.gif"
+ src="/Images/ProductRating/10.gif"
+ src="/Images/ProductRating/10.gif"
+ src="/Images/ProductRating/10.gif"
+XPATH div[@class='prdTrm']/a  1 results
+<a href="/dr-bronners-magic-fresh-pressed-virgin-coconut-oil-whole-kernel-unrefined" title="View more information about Dr. Bronner's Magic Fresh Pressed Virgin Coconut Oil Whole Kernel Unrefined" class="pNameM cf">Dr. Bronner's Magic Fresh Pressed Virgin Coconut Oil Whole Kernel Unrefined -- 14 fl oz</a>
+XPATH div[@class='prdTrm']/a/@href  1 results
+ href="/dr-bronners-magic-fresh-pressed-virgin-coconut-oil-whole-kernel-unrefined"
+XPATH div[@id='bottomPricing']//div[@class='pOurPriceL']  1 results
+<div class="pOurPriceL">Vitacost Price: $10.07</div>
+XPATH div[@id='bottomPricing']//div[@class='fs-1 txtI']  1 results
+<div class="fs-1 txtI">Retail price: $11.19</div>
+XPATH div/div[@class='pRating']/a/img/@src  5 results
+ src="/Images/ProductRating/10.gif"
+ src="/Images/ProductRating/10.gif"
+ src="/Images/ProductRating/10.gif"
+ src="/Images/ProductRating/10.gif"
+ src="/Images/ProductRating/10.gif"
+XPATH div[@class='prdTrm']/a  1 results
+<a href="/jarrow-formulas-coconut-oil-extra-virgin-1000-mg-120-softgels-2" title="View more information about Jarrow Formulas Coconut Oil Extra Virgin" class="pNameM cf">Jarrow Formulas Coconut Oil Extra Virgin -- 1000 mg - 120 Softgels</a>
+XPATH div[@class='prdTrm']/a/@href  1 results
+ href="/jarrow-formulas-coconut-oil-extra-virgin-1000-mg-120-softgels-2"
+XPATH div[@id='bottomPricing']//div[@class='pOurPriceL']  1 results
+<div class="pOurPriceL">Vitacost Price: $9.15</div>
+XPATH div[@id='bottomPricing']//div[@class='fs-1 txtI']  1 results
+<div class="fs-1 txtI">Retail price: $16.95</div>
+XPATH div/div[@class='pRating']/a/img/@src  0 results
+XPATH div[@class='prdTrm']/a  1 results
+<a href="/nordic-naturals-vitamin-d3-in-organic-extra-virgin-olive-oil-orange-1000-iu-120-softgels" title="View more information about Nordic Naturals Vitamin D3 in Organic Extra Virgin Olive Oil Orange" class="pNameM cf">Nordic Naturals Vitamin D3 in Organic Extra Virgin Olive Oil Orange -- 1000 IU - 120 Softgels</a>
+XPATH div[@class='prdTrm']/a/@href  1 results
+ href="/nordic-naturals-vitamin-d3-in-organic-extra-virgin-olive-oil-orange-1000-iu-120-softgels"
+XPATH div[@id='bottomPricing']//div[@class='pOurPriceL']  1 results
+<div class="pOurPriceL">Vitacost Price: $14.06</div>
+XPATH div[@id='bottomPricing']//div[@class='fs-1 txtI']  1 results
+<div class="fs-1 txtI">Retail price: $15.95</div>
+XPATH div/div[@class='pRating']/a/img/@src  5 results
+ src="/Images/ProductRating/10.gif"
+ src="/Images/ProductRating/10.gif"
+ src="/Images/ProductRating/10.gif"
+ src="/Images/ProductRating/10.gif"
+ src="/Images/ProductRating/10.gif"
+XPATH //a[@id='IamMasterFrameYesIam_ctl02_EndecaTopPagination_next']/@href  1 results
+ href="http://www.vitacost.com/productResults.aspx?previousText=virgin&amp;Ntt=virgin&amp;ntk=products&amp;Ns=P_SoldQuantity%7c1&amp;No=21"
+opening document: http://www.vitacost.com/productResults.aspx?previousText=virgin&Ntt=virgin&ntk=products&Ns=P_SoldQuantity%7c1&No=21
+loading...
+XPATH //div[@class='srListing']  1 results
+-500 characters truncated ... ]
+XPATH //div[@class='srListing']  1 results
+-500 characters truncated ... ]
+XPATH //div[@class='spPLB']/div/div[@class='pltgR']/div[@class='pltgRin cf']/div[@class='pltgPL brR']/div[@class='pltgPLin']/div[@class='pt0 cf']/div[@class='pt9P cf clear']  7 results
+-500 characters truncated ... ]
+-500 characters truncated ... ]
+-500 characters truncated ... ]
+-500 characters truncated ... ]
+-500 characters truncated ... ]
+-500 characters truncated ... ]
+-500 characters truncated ... ]
+XPATH div[@class='prdTrm']/a  1 results
+<a href="/napa-valley-naturals-organic-extra-virgin-olive-oil" title="View more information about Napa Valley Naturals Organic Extra Virgin Olive Oil" class="pNameM cf">Napa Valley Naturals Organic Extra Virgin Olive Oil -- 25.4 fl oz</a>
+XPATH div[@class='prdTrm']/a/@href  1 results
+ href="/napa-valley-naturals-organic-extra-virgin-olive-oil"
+XPATH div[@id='bottomPricing']//div[@class='pOurPriceL']  1 results
+<div class="pOurPriceL">Vitacost Price: $14.57</div>
+XPATH div[@id='bottomPricing']//div[@class='fs-1 txtI']  1 results
+<div class="fs-1 txtI">Retail price: $16.19</div>
+XPATH div/div[@class='pRating']/a/img/@src  5 results
+ src="/Images/ProductRating/10.gif"
+ src="/Images/ProductRating/10.gif"
+ src="/Images/ProductRating/10.gif"
+ src="/Images/ProductRating/10.gif"
+ src="/Images/ProductRating/10.gif"
+XPATH div[@class='prdTrm']/a  1 results
+<a href="/source-naturals-extra-virgin-coconut-oil" title="View more information about Source Naturals Extra Virgin Coconut Oil" class="pNameM cf">Source Naturals Extra Virgin Coconut Oil -- 240 Softgels</a>
+XPATH div[@class='prdTrm']/a/@href  1 results
+ href="/source-naturals-extra-virgin-coconut-oil"
+XPATH div[@id='bottomPricing']//div[@class='pOurPriceL']  1 results
+<div class="pOurPriceL">Vitacost Price: $23.34</div>
+XPATH div[@id='bottomPricing']//div[@class='fs-1 txtI']  1 results
+<div class="fs-1 txtI">Retail price: $40.98</div>
+XPATH div/div[@class='pRating']/a/img/@src  5 results
+ src="/Images/ProductRating/10.gif"
+ src="/Images/ProductRating/10.gif"
+ src="/Images/ProductRating/10.gif"
+ src="/Images/ProductRating/10.gif"
+ src="/Images/ProductRating/9.gif"
+XPATH div[@class='prdTrm']/a  1 results
+<a href="/organic-fiji-certified-organic-virgin-coconut-oil-fragrance-free-3-oz" title="View more information about Organic Fiji Certified Organic Virgin Coconut Oil Fragrance Free" class="pNameM cf">Organic Fiji Certified Organic Virgin Coconut Oil Fragrance Free -- 3 oz</a>
+XPATH div[@class='prdTrm']/a/@href  1 results
+ href="/organic-fiji-certified-organic-virgin-coconut-oil-fragrance-free-3-oz"
+XPATH div[@id='bottomPricing']//div[@class='pOurPriceL']  1 results
+<div class="pOurPriceL">Vitacost Price: $7.13</div>
+XPATH div[@id='bottomPricing']//div[@class='fs-1 txtI']  1 results
+<div class="fs-1 txtI">Retail price: $7.99</div>
+XPATH div/div[@class='pRating']/a/img/@src  5 results
+ src="/Images/ProductRating/10.gif"
+ src="/Images/ProductRating/10.gif"
+ src="/Images/ProductRating/10.gif"
+ src="/Images/ProductRating/10.gif"
+ src="/Images/ProductRating/10.gif"
+XPATH div[@class='prdTrm']/a  1 results
+<a href="/dr-bronners-magic-fresh-pressed-virgin-coconut-oil-white-unrefined" title="View more information about Dr. Bronner's Magic Fresh Pressed Virgin Coconut Oil White Unrefined" class="pNameM cf">Dr. Bronner's Magic Fresh Pressed Virgin Coconut Oil White Unrefined -- 14 fl oz</a>
+XPATH div[@class='prdTrm']/a/@href  1 results
+ href="/dr-bronners-magic-fresh-pressed-virgin-coconut-oil-white-unrefined"
+XPATH div[@id='bottomPricing']//div[@class='pOurPriceL']  1 results
+<div class="pOurPriceL">Vitacost Price: $10.07</div>
+XPATH div[@id='bottomPricing']//div[@class='fs-1 txtI']  1 results
+<div class="fs-1 txtI">Retail price: $11.19</div>
+XPATH div/div[@class='pRating']/a/img/@src  5 results
+ src="/Images/ProductRating/10.gif"
+ src="/Images/ProductRating/10.gif"
+ src="/Images/ProductRating/10.gif"
+ src="/Images/ProductRating/10.gif"
+ src="/Images/ProductRating/0.gif"
+XPATH div[@class='prdTrm']/a  1 results
+<a href="/flora-extra-virgin-olive-oil" title="View more information about Flora Extra-Virgin Olive Oil" class="pNameM cf">Flora Extra-Virgin Olive Oil -- 17 fl oz</a>
+XPATH div[@class='prdTrm']/a/@href  1 results
+ href="/flora-extra-virgin-olive-oil"
+XPATH div[@id='bottomPricing']//div[@class='pOurPriceL']  1 results
+<div class="pOurPriceL">Vitacost Price: $14.04</div>
+XPATH div[@id='bottomPricing']//div[@class='fs-1 txtI']  1 results
+<div class="fs-1 txtI">Retail price: $17.49</div>
+XPATH div/div[@class='pRating']/a/img/@src  5 results
+ src="/Images/ProductRating/10.gif"
+ src="/Images/ProductRating/10.gif"
+ src="/Images/ProductRating/10.gif"
+ src="/Images/ProductRating/10.gif"
+ src="/Images/ProductRating/10.gif"
+XPATH div[@class='prdTrm']/a  1 results
+<a href="/lucini-italia-organic-limited-reserve-extra-virgin-olive-oil" title="View more information about Lucini Italia Organic Limited Reserve Extra Virgin Olive Oil" class="pNameM cf">Lucini Italia Organic Limited Reserve Extra Virgin Olive Oil -- 17 fl oz</a>
+XPATH div[@class='prdTrm']/a/@href  1 results
+ href="/lucini-italia-organic-limited-reserve-extra-virgin-olive-oil"
+XPATH div[@id='bottomPricing']//div[@class='pOurPriceL']  1 results
+<div class="pOurPriceL">Vitacost Price: $19.79</div>
+XPATH div[@id='bottomPricing']//div[@class='fs-1 txtI']  1 results
+<div class="fs-1 txtI">Retail price: $21.99</div>
+XPATH div/div[@class='pRating']/a/img/@src  5 results
+ src="/Images/ProductRating/10.gif"
+ src="/Images/ProductRating/10.gif"
+ src="/Images/ProductRating/10.gif"
+ src="/Images/ProductRating/10.gif"
+ src="/Images/ProductRating/10.gif"
+XPATH div[@class='prdTrm']/a  1 results
+<a href="/bionaturae-organic-extra-virgin-olive-oil-25-4-fl-oz" title="View more information about Bionaturae Organic Extra Virgin Olive Oil" class="pNameM cf">Bionaturae Organic Extra Virgin Olive Oil -- 25.4 fl oz</a>
+XPATH div[@class='prdTrm']/a/@href  1 results
+ href="/bionaturae-organic-extra-virgin-olive-oil-25-4-fl-oz"
+XPATH div[@id='bottomPricing']//div[@class='pOurPriceL']  1 results
+<div class="pOurPriceL">Vitacost Price: $18.12</div>
+XPATH div[@id='bottomPricing']//div[@class='fs-1 txtI']  1 results
+<div class="fs-1 txtI">Retail price: $21.39</div>
+XPATH div/div[@class='pRating']/a/img/@src  0 results
+XPATH //a[@id='IamMasterFrameYesIam_ctl02_EndecaTopPagination_next']/@href  1 results
+ href="http://www.vitacost.com/productResults.aspx?previousText=virgin&amp;Ns=P_SoldQuantity%7c1&amp;No=42&amp;Ntt=virgin&amp;ntk=products"
+opening document: http://www.vitacost.com/productResults.aspx?previousText=virgin&Ns=P_SoldQuantity%7c1&No=42&Ntt=virgin&ntk=products
+loading...
+XPATH //div[@class='srListing']  1 results
+-500 characters truncated ... ]
+XPATH //div[@class='srListing']  1 results
+-500 characters truncated ... ]
+XPATH //div[@class='spPLB']/div/div[@class='pltgR']/div[@class='pltgRin cf']/div[@class='pltgPL brR']/div[@class='pltgPLin']/div[@class='pt0 cf']/div[@class='pt9P cf clear']  7 results
+-500 characters truncated ... ]
+-500 characters truncated ... ]
+-500 characters truncated ... ]
+-500 characters truncated ... ]
+-500 characters truncated ... ]
+-500 characters truncated ... ]
+-500 characters truncated ... ]
+XPATH div[@class='prdTrm']/a  1 results
+<a href="/olivella-all-natural-virgin-olive-oil-moisturizer" title="View more information about Olivella All Natural Virgin Olive Oil Moisturizer" class="pNameM cf">Olivella All Natural Virgin Olive Oil Moisturizer -- 1.69 fl oz</a>
+XPATH div[@class='prdTrm']/a/@href  1 results
+ href="/olivella-all-natural-virgin-olive-oil-moisturizer"
+XPATH div[@id='bottomPricing']//div[@class='pOurPriceL']  1 results
+<div class="pOurPriceL">Vitacost Price: $17.14</div>
+XPATH div[@id='bottomPricing']//div[@class='fs-1 txtI']  1 results
+<div class="fs-1 txtI">Retail price: $25.69</div>
+XPATH div/div[@class='pRating']/a/img/@src  5 results
+ src="/Images/ProductRating/10.gif"
+ src="/Images/ProductRating/10.gif"
+ src="/Images/ProductRating/10.gif"
+ src="/Images/ProductRating/10.gif"
+ src="/Images/ProductRating/10.gif"
+XPATH div[@class='prdTrm']/a  1 results
+<a href="/lucini-italia-tuscan-balsamic-extra-virgin-vinaigrette" title="View more information about Lucini Italia Tuscan Balsamic &amp; Extra Virgin Vinaigrette" class="pNameM cf">Lucini Italia Tuscan Balsamic &amp; Extra Virgin Vinaigrette -- 8.5 fl oz</a>
+XPATH div[@class='prdTrm']/a/@href  1 results
+ href="/lucini-italia-tuscan-balsamic-extra-virgin-vinaigrette"
+XPATH div[@id='bottomPricing']//div[@class='pOurPriceL']  1 results
+<div class="pOurPriceL">Vitacost Price: $5.54</div>
+XPATH div[@id='bottomPricing']//div[@class='fs-1 txtI']  1 results
+<div class="fs-1 txtI">Retail price: $6.49</div>
+XPATH div/div[@class='pRating']/a/img/@src  5 results
+ src="/Images/ProductRating/10.gif"
+ src="/Images/ProductRating/10.gif"
+ src="/Images/ProductRating/10.gif"
+ src="/Images/ProductRating/10.gif"
+ src="/Images/ProductRating/10.gif"
+XPATH div[@class='prdTrm']/a  1 results
+<a href="/organic-fiji-certified-organic-virgin-coconut-oil-lavender-3-fl-oz" title="View more information about Organic Fiji Certified Organic Virgin Coconut Oil Lavender" class="pNameM cf">Organic Fiji Certified Organic Virgin Coconut Oil Lavender -- 3 fl oz</a>
+XPATH div[@class='prdTrm']/a/@href  1 results
+ href="/organic-fiji-certified-organic-virgin-coconut-oil-lavender-3-fl-oz"
+XPATH div[@id='bottomPricing']//div[@class='pOurPriceL']  1 results
+<div class="pOurPriceL">Vitacost Price: $7.13</div>
+XPATH div[@id='bottomPricing']//div[@class='fs-1 txtI']  1 results
+<div class="fs-1 txtI">Retail price: $7.99</div>
+XPATH div/div[@class='pRating']/a/img/@src  5 results
+ src="/Images/ProductRating/10.gif"
+ src="/Images/ProductRating/10.gif"
+ src="/Images/ProductRating/10.gif"
+ src="/Images/ProductRating/10.gif"
+ src="/Images/ProductRating/4.gif"
+XPATH div[@class='prdTrm']/a  1 results
+<a href="/alaffia-virgin-coconut-hydrating-body-lotion-refreshing-coconut-8-fl-oz" title="View more information about Alaffia Virgin Coconut Hydrating Body Lotion Refreshing Coconut" class="pNameM cf">Alaffia Virgin Coconut Hydrating Body Lotion Refreshing Coconut -- 8 fl oz</a>
+XPATH div[@class='prdTrm']/a/@href  1 results
+ href="/alaffia-virgin-coconut-hydrating-body-lotion-refreshing-coconut-8-fl-oz"
+XPATH div[@id='bottomPricing']//div[@class='pOurPriceL']  1 results
+<div class="pOurPriceL">Vitacost Price: $8.06</div>
+XPATH div[@id='bottomPricing']//div[@class='fs-1 txtI']  1 results
+<div class="fs-1 txtI">Retail price: $8.95</div>
+XPATH div/div[@class='pRating']/a/img/@src  0 results
+XPATH div[@class='prdTrm']/a  1 results
+<a href="/natures-alchemy-100-pure-extra-virgin-olive-oil" title="View more information about Nature's Alchemy 100% Pure Extra Virgin Olive Oil" class="pNameM cf">Nature's Alchemy 100% Pure Extra Virgin Olive Oil -- 4 fl oz</a>
+XPATH div[@class='prdTrm']/a/@href  1 results
+ href="/natures-alchemy-100-pure-extra-virgin-olive-oil"
+XPATH div[@id='bottomPricing']//div[@class='pOurPriceL']  1 results
+<div class="pOurPriceL">Vitacost Price: $5.71</div>
+XPATH div[@id='bottomPricing']//div[@class='fs-1 txtI']  1 results
+<div class="fs-1 txtI">Retail price: $7.25</div>
+XPATH div/div[@class='pRating']/a/img/@src  0 results
+XPATH div[@class='prdTrm']/a  1 results
+<a href="/lucini-italia-premium-select-extra-virgin-olive-oil" title="View more information about Lucini Italia Premium Select Extra Virgin Olive Oilâ¢" class="pNameM cf">Lucini Italia Premium Select Extra Virgin Olive Oilâ¢ -- 17 fl oz</a>
+XPATH div[@class='prdTrm']/a/@href  1 results
+ href="/lucini-italia-premium-select-extra-virgin-olive-oil"
+XPATH div[@id='bottomPricing']//div[@class='pOurPriceL']  1 results
+<div class="pOurPriceL">Vitacost Price: $15.08</div>
+XPATH div[@id='bottomPricing']//div[@class='fs-1 txtI']  1 results
+<div class="fs-1 txtI">Retail price: $18.79</div>
+XPATH div/div[@class='pRating']/a/img/@src  5 results
+ src="/Images/ProductRating/10.gif"
+ src="/Images/ProductRating/10.gif"
+ src="/Images/ProductRating/10.gif"
+ src="/Images/ProductRating/10.gif"
+ src="/Images/ProductRating/10.gif"
+XPATH div[@class='prdTrm']/a  1 results
+<a href="/colavita-extra-virgin-olive-oil" title="View more information about Colavita Extra Virgin Olive Oil" class="pNameM cf">Colavita Extra Virgin Olive Oil -- 16.9 fl oz</a>
+XPATH div[@class='prdTrm']/a/@href  1 results
+ href="/colavita-extra-virgin-olive-oil"
+XPATH div[@id='bottomPricing']//div[@class='pOurPriceL']  1 results
+<div class="pOurPriceL">Vitacost Price: $10.60</div>
+XPATH div[@id='bottomPricing']//div[@class='fs-1 txtI']  1 results
+<div class="fs-1 txtI">Retail price: $12.59</div>
+XPATH div/div[@class='pRating']/a/img/@src  0 results
+XPATH //a[@id='IamMasterFrameYesIam_ctl02_EndecaTopPagination_next']/@href  1 results
+ href="http://www.vitacost.com/productResults.aspx?previousText=virgin&amp;Ns=P_SoldQuantity%7c1&amp;No=63&amp;Ntt=virgin&amp;ntk=products"
+opening document: http://www.vitacost.com/productResults.aspx?previousText=virgin&Ns=P_SoldQuantity%7c1&No=63&Ntt=virgin&ntk=products
+loading...
+XPATH //div[@class='srListing']  1 results
+-500 characters truncated ... ]
+XPATH //div[@class='srListing']  1 results
+-500 characters truncated ... ]
+XPATH //div[@class='spPLB']/div/div[@class='pltgR']/div[@class='pltgRin cf']/div[@class='pltgPL brR']/div[@class='pltgPLin']/div[@class='pt0 cf']/div[@class='pt9P cf clear']  1 results
+-500 characters truncated ... ]
+XPATH div[@class='prdTrm']/a  1 results
+<a href="/olympian-labs-virgin-coconut-oil-10-fl-oz" title="View more information about Olympian Labs Virgin Coconut Oil" class="pNameM cf">Olympian Labs Virgin Coconut Oil -- 10 fl oz</a>
+XPATH div[@class='prdTrm']/a/@href  1 results
+ href="/olympian-labs-virgin-coconut-oil-10-fl-oz"
+XPATH div[@id='bottomPricing']//div[@class='pOurPriceL']  1 results
+<div class="pOurPriceL">Vitacost Price: $13.04</div>
+XPATH div[@id='bottomPricing']//div[@class='fs-1 txtI']  1 results
+<div class="fs-1 txtI">Retail price: $18.25</div>
+XPATH div/div[@class='pRating']/a/img/@src  0 results
+XPATH //a[@id='IamMasterFrameYesIam_ctl02_EndecaTopPagination_next']/@href  0 results
+$20.99		http://www.vitacost.com/vitacost-extra-virgin-certified-organic-coconut-oil-54-fl-oz-4
+$25.02	$37.99	http://www.vitacost.com/nutiva-extra-virgin-coconut-oil-organic-54-fl-oz
+$11.08	$15.99	http://www.vitacost.com/newmans-own-organic-olive-oil-extra-virgin
+$19.33	$30.85	http://www.vitacost.com/garden-of-life-extra-virgin-organic-coconut-oil-32-fl-oz
+$10.07	$11.19	http://www.vitacost.com/dr-bronners-magic-fresh-pressed-virgin-coconut-oil-whole-kernel-unrefined
+$9.15	$16.95	http://www.vitacost.com/jarrow-formulas-coconut-oil-extra-virgin-1000-mg-120-softgels-2
+$14.06	$15.95	http://www.vitacost.com/nordic-naturals-vitamin-d3-in-organic-extra-virgin-olive-oil-orange-1000-iu-120-softgels
+$14.57	$16.19	http://www.vitacost.com/napa-valley-naturals-organic-extra-virgin-olive-oil
+$23.34	$40.98	http://www.vitacost.com/source-naturals-extra-virgin-coconut-oil
+$7.13	$7.99	http://www.vitacost.com/organic-fiji-certified-organic-virgin-coconut-oil-fragrance-free-3-oz
+$10.07	$11.19	http://www.vitacost.com/dr-bronners-magic-fresh-pressed-virgin-coconut-oil-white-unrefined
+$14.04	$17.49	http://www.vitacost.com/flora-extra-virgin-olive-oil
+$19.79	$21.99	http://www.vitacost.com/lucini-italia-organic-limited-reserve-extra-virgin-olive-oil
+$18.12	$21.39	http://www.vitacost.com/bionaturae-organic-extra-virgin-olive-oil-25-4-fl-oz
+$17.14	$25.69	http://www.vitacost.com/olivella-all-natural-virgin-olive-oil-moisturizer
+$5.54	$6.49	http://www.vitacost.com/lucini-italia-tuscan-balsamic-extra-virgin-vinaigrette
+$7.13	$7.99	http://www.vitacost.com/organic-fiji-certified-organic-virgin-coconut-oil-lavender-3-fl-oz
+$8.06	$8.95	http://www.vitacost.com/alaffia-virgin-coconut-hydrating-body-lotion-refreshing-coconut-8-fl-oz
+$5.71	$7.25	http://www.vitacost.com/natures-alchemy-100-pure-extra-virgin-olive-oil
+$15.08	$18.79	http://www.vitacost.com/lucini-italia-premium-select-extra-virgin-olive-oil
+$10.60	$12.59	http://www.vitacost.com/colavita-extra-virgin-olive-oil
+$13.04	$18.25	http://www.vitacost.com/olympian-labs-virgin-coconut-oil-10-fl-oz
+opening document: http://www.livamed.com/search.php?search_query=virgin
+loading...
+XPATH //ul[@class='ProductList List Clear']/li  0 results
+XPATH //div[@class='CategoryPagination'][2]/ul[@class='PagingList']/li[@class='ActivePage']/following-sibling::*[1]/a/@href  0 results
