@@ -1,0 +1,231 @@
+<!DOCTYPE HTML>
+<!-- This is a sample application that demonstrates a few features of the JavaScript DirecTV Remote API.
+     The application was thrown together as a demonstration and was done so quickly.  This being said,
+     there were some shortcuts taken to save time.  If you feel you want to make things better, fork me
+     and submit a pull request. -->
+<html>
+<head>
+  <title>DirecTV Control and Feedback</title>
+  <link rel="stylesheet" href="./website/css/bootstrap.css" type="text/css"/>
+  <link rel="stylesheet" href="./css/dtv.remote.api.example.css" type="text/css"/>
+  <link rel="stylesheet" href="./website/css/bootstrap-responsive.css" type="text/css"/>
+</head>
+<body>
+  <div class="navbar navbar-fixed-top">
+    <div class="navbar-inner">
+      <div class="container">
+        <a class="brand" href="#">DirecTV Control and Feedback</a>
+        <ul class="nav">
+          <li><a href="#about-dialog" data-toggle="modal" data-keyboard="true">About</a></li>
+          <li><a href="#contact-dialog" data-toggle="modal" data-keyboard="true">Contact</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="container" id="main-container">
+    <div class="hero-unit">
+      <h2>Node webkit DirecTV Remote Control and Feedback</h2>
+      <p>
+        Welcome to the DirecTV Remote Control and Feedback</a>.
+        This application will turn your application into a DirecTV <abbr title="set-top-box">STB</abbr> remote control and feedback, as if you had the remote in your hand.
+      </p>
+      <p>
+        In order to control the IP, Please click the button below to enter your DirecTV <abbr title="set-top-box">STB</abbr> IP address.
+      </p>
+      <p><a href="#ip-address-dialog" class="btn primary" data-toggle="modal" style='color:red;font-weight:bold;' data-keyboard="true">Get Started &nbsp;(&nbsp; IP &nbsp;)</a></p>
+	  
+	  <p>
+        In order to control the Serial, Please click the button below to enter your DirecTV <abbr title="set-top-box">STB</abbr> Serial.
+      </p>
+      <p><a href="#ip-address-dialog1" class="btn primary" data-toggle="modal" style='color:blue;font-weight:bold;' data-keyboard="true">Get Started &nbsp;(&nbsp; Serial &nbsp;)</a></p>
+    </div>
+  </div>
+
+  <!-- Main UI -->
+  <div id="main-content" class="hide" >
+    <div id="main-page-header">
+      <div class="row">
+        <div class="span6">
+          <h3 id="program-title">Program Title <small id="episode-title">Episode title</small></h3>
+        </div>
+        <div class="span6 text-right">
+          <h3 id="program-callsign">Channel Callsign <small id="channel">Channel</small></h3>
+        </div>
+      </div>
+    </div>
+    <div class="container" id="remote-buttons">
+     <!--
+	 <div class="row">
+        <div class="span12 text-center">
+          <a href="#" id="format" class="btn">format</a>
+          <a href="#" id="power" class="btn">power</a>
+        </div>
+      </div>
+	  
+      <div class="row">
+        <div class="span12 text-center">
+          <a href="#" id="rew" class="btn">rew</a>
+          <a href="#" id="pause" class="btn">pause</a>
+          <a href="#" id="play" class="btn">play</a>
+          <a href="#" id="stop" class="btn">stop</a>
+          <a href="#" id="ffwd" class="btn">ffwd</a>
+        </div>
+      </div>
+	 
+      <div class="row">
+        <div class="span12 text-center">
+          <a href="#" id="replay" class="btn">replay</a>
+          <a href="#" id="advance" class="btn">advance</a>
+          <a href="#" id="record" class="btn btn-warning">record</a>
+        </div>
+      </div>
+	   -->
+      <div class="row">
+        <div class="span12 text-center">
+          <a href="#" id="guide" class="btn">guide</a>
+          <a href="#" id="active" class="btn">active</a>
+          <a href="#" id="list" class="btn">list</a>
+          <a href="#" id="exit" class="btn">exit</a>
+        </div>
+      </div>
+      <div class="row">
+        <div class="span12 text-center">
+          <a href="#" id="up" class="btn">up</a>
+          <a href="#" id="down" class="btn">down</a>
+          <a href="#" id="select" class="btn btn-warning">select</a>
+          <a href="#" id="left" class="btn">left</a>
+          <a href="#" id="right" class="btn">right</a>
+        </div>
+      </div>
+	  <!--
+      <div class="row">
+        <div class="span12 text-center">
+          <a href="#" id="back" class="btn">back</a>
+          <a href="#" id="menu" class="btn">menu</a>
+          <a href="#" id="info" class="btn">info</a>
+        </div>
+      </div>
+	  -->
+      <div class="row">
+        <div class="span12 text-center">
+          <a href="#" id="red" class="btn btn-danger">&nbsp;</a>
+          <a href="#" id="green" class="btn btn-success">&nbsp;</a>
+          <a href="#" id="yellow" class="btn btn-warning">&nbsp;</a>
+          <a href="#" id="blue" class="btn btn-primary">&nbsp;</a>
+        </div>
+      </div>
+      <div class="row">
+        <div class="span12 text-center">
+          <a href="#" id="chanup" class="btn">chan/page up</a>
+          <a href="#" id="chandown" class="btn">chan/page down</a>
+          <a href="#" id="prev" class="btn">prev</a>
+        </div>
+      </div>
+      <div class="row">
+        <div class="span12 text-center">
+          <a href="#" id="1" class="btn">1</a>
+          <a href="#" id="2" class="btn">2</a>
+          <a href="#" id="3" class="btn">3</a>
+        </div>
+      </div>
+      <div class="row">
+        <div class="span12 text-center">
+          <a href="#" id="4" class="btn">4</a>
+          <a href="#" id="5" class="btn">5</a>
+          <a href="#" id="6" class="btn">6</a>
+        </div>
+      </div>
+      <div class="row">
+        <div class="span12 text-center">
+          <a href="#" id="7" class="btn">7</a>
+          <a href="#" id="8" class="btn">8</a>
+          <a href="#" id="9" class="btn">9</a>
+        </div>
+      </div>
+      <div class="row">
+        <div class="span12 text-center">
+          <a href="#" id="dash" class="btn">dash</a>
+          <a href="#" id="0" class="btn">0</a>
+          <a href="#" id="enter" class="btn">enter</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Modal Dialogs -->
+  <div id="about-dialog" class="modal hide fade">
+    <div class="modal-header">
+      <a href="#" class="close" data-dismiss="modal">x</a>
+      <h3>About</h3>
+    </div>
+    <div class="modal-body">
+      <p>NodeWebkit application copyright 2016</p>
+    </div>
+  </div>
+  <div id="contact-dialog" class="modal hide fade">
+    <div class="modal-header">
+      <a href="#" class="close" data-dismiss="modal">x</a>
+      <h3>Contact</h3>
+    </div>
+    <div class="modal-body">
+	  <!--
+      <p>Insert some useful text that will probably end up being a link to <a href="http://whitlockjc.github.com/directv-remote-api/">http://whitlockjc.github.com/directv-remote-api/</a>.</p>
+	  -->
+    </div>
+  </div>
+  
+  <div id="ip-address-dialog" class="modal hide fade">
+    <div class="modal-header">
+      <h3><small>Let's get started &nbsp;(IP)</small></h3>
+    </div>
+    <div class="modal-body">
+      <p>To get started with this application, please provide your DirecTV <abbr title="set-top-box">STB</abbr> IP address in the form below.</p>
+     
+      <form>
+        <fieldset>
+          <div class="well">
+            <label for="ip-address-input"><strong>IP Address:</strong></label>
+            <div class="input">
+              <input class="span5" type="text" id="ip-address-input" name="ip-address-input" size="30"/>
+            </div>
+          </div>
+        </fieldset>
+      </form>
+    </div>
+    <div class="modal-footer">
+      <button class="btn" data-dismiss="modal">Cancel</button>
+      <button class="btn primary" id="ip-address-submit">Submit</button>
+    </div>
+  </div> 
+  <div id="ip-address-dialog1" class="modal hide fade">
+    <div class="modal-header">
+      <h3><small>Let's get started &nbsp;(Serial)</small></h3>
+    </div>
+    <div class="modal-body">
+      <p>To get started with this application, please provide your DirecTV <abbr title="set-top-box">STB</abbr> PORT Number in the form below.</p>
+     
+      <form>
+        <fieldset>
+          <div class="well">
+            <label for="ip-address-input"><strong>PORT Number:</strong></label>
+            <div class="input">
+              <input class="span5" type="text" id="port-address-input" name="ip-address-input" size="30"/>
+            </div>
+          </div>
+        </fieldset>
+      </form>
+    </div>
+    <div class="modal-footer">
+      <button class="btn" data-dismiss="modal">Cancel</button>
+      <button class="btn primary" id="port-address-submit">Submit</button>
+    </div>
+  </div>
+
+  <!-- Scripts -->
+  <script type="text/javascript" src="./website/js/jquery-1.7.1.js"></script>
+  <script type="text/javascript" src="./test/vendor/underscore-1.2.2.js"></script>
+  <script type="text/javascript" src="./website/js/bootstrap-modal.js"></script>
+  <script type="text/javascript" src="./js/dtv.remote.api.js"></script>
+  <script type="text/javascript" src="./js/dtv.remote.api.example.js"></script>
+</body>
+</html>
