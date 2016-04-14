@@ -1,0 +1,19 @@
+{
+  "name": "XenformaMobileSync",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "react-native": "^0.17.0",
+    "react-native-collapsible": "^0.5.4",
+    "react-native-fileupload": "^1.2.0",
+    "react-native-fs": "^1.1.0",
+    "react-native-swiper": "0.0.2",
+    "rn-grid-view": "^1.0.0"
+  },
+  "devDependencies": {
+   
+  }
+}
