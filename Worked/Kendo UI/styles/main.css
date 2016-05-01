@@ -1,0 +1,49 @@
+
+body{
+	background-color: rgba(63, 81, 181, 0.13);
+	padding-top: 5vh;
+}
+.box-col{
+	float: left;
+	margin-left: 15px;
+}
+
+.box-row{
+	display: block;
+	margin-top: 10px;
+}
+
+.w60 {
+	width: 60%;
+}
+
+.w40 {
+	width: 30%;
+}
+
+.pubListView, .scrListView, .subListView {
+	height: 70px;
+	width: 70%;
+	overflow-y: auto;
+}
+
+.fortree, .forinput{ 
+	padding: 15px;
+	border: 2px solid #9E9E9E;
+	height: 80vh;
+ }
+
+input{
+	height: 25px;
+}
+
+.clsdiv{
+	float: right;
+	margin-right: 10px;
+	color: blue;
+	width: 25px;
+}
+
+.clsdiv:hover{
+	color: red;
+}

@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<!-- saved from url=(0046)http://demos.telerik.com/kendo-ui/treelist/api -->
+<html class="k-material k-webkit k-webkit49">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">    
+        
+        <link href="http://kendo.cdn.telerik.com/2016.1.112/styles/kendo.common.min.css" rel="stylesheet" type="text/css" />
+        <link href="http://kendo.cdn.telerik.com/2016.1.112/styles/kendo.default.min.css" rel="stylesheet" type="text/css" />
+        <link href="styles/main.css" rel="stylesheet" type="text/css" />
+
+        <script src="http://code.jquery.com/jquery-1.9.1.min.js" type="text/javascript"></script>
+        <script src="http://kendo.cdn.telerik.com/2016.1.112/js/kendo.all.min.js" type="text/javascript"></script>
+        <script src="js/main.js" type="text/javascript"></script>
+
+        <script src="data/subscriber.js" type="text/javascript"></script>
+        <script src="data/pubscriber.js" type="text/javascript"></script>
+        <script src="data/niches.js" type="text/javascript"></script>
+</head>
+<body>
+    <div id="example">
+        <div class="box-col w60 fortree">
+            <h1>Niches</h1>
+            <div id="treeview"></div>
+        </div>
+        <div class="box-col w40 forinput">
+            <h1>Edit Niches</h1>
+            <div class="box-row" style="text-align: right">
+                <button class="k-button" id="addbtn">Add new Niche</button>
+            </div>
+            <div class="box-row" style="text-align: left">
+                <h3>Niche Name*</h3>
+                <input type="text" class="niche-name-text" size="30">
+            </div>
+            <div class="box-row" style="text-align: left">
+                <h3>Niche Nickname*</h3>
+                <input type="text" class="niche-nickname-text" size="30">
+            </div>
+            <div class="box-row" style="text-align: left">
+                <h3>Publishers</h3>
+                <select id="pubComboBox" class="pub-combo">
+                    
+                </select>
+                <div id="publist" class="pubListView"></div>
+            </div>
+            <div class="box-row" style="text-align: left">
+                <h3>Subscribers</h3>
+                <select id="subComboBox" class="sub-combo">
+                    
+                </select>
+                <div id="sublist" class="subListView"></div>
+            </div>
+            <div class="box-row" style="text-align: left">
+                <input type="text" class="niche-name-text" size="30">
+                <div id="serlist" class="scrListView"></div>
+            </div>
+            <div class="box-row" style="text-align: right">
+                <button class="k-button" id="updateBtn">Save Changes</button>
+				<button class="k-button" id="sortBtn">Sort Ascending</button>
+			
+            </div>
+        </div>                
+    </div>
+    <input type="hidden" id="subVal">
+</body>
+</html>
